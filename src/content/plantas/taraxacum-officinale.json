@@ -99,9 +99,9 @@
         }
       ],
       "images": {
-        "full": "/laminas/255466-1600w.webp",
-        "medium": "/laminas/255466-800w.webp",
-        "thumb": "/laminas/255466-400w.webp",
+        "full": "https://pub-87055fb927334a08b8b0dfae60d07044.r2.dev/laminas/255466-1600w.webp",
+        "medium": "https://pub-87055fb927334a08b8b0dfae60d07044.r2.dev/laminas/255466-800w.webp",
+        "thumb": "https://pub-87055fb927334a08b8b0dfae60d07044.r2.dev/laminas/255466-400w.webp",
         "width": 1600,
         "height": 2201,
         "formats": [
