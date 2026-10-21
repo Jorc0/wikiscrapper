@@ -1,0 +1,69 @@
+{
+  "taxon": {
+    "accepted": "Cinchona officinalis",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Cinchona",
+    "family": "Rubiaceae",
+    "gbif_id": 2901250,
+    "wikidata": "Q3091779",
+    "common_es": [
+      "quina"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "cinchona-officinalis-kohler-bhl-1887",
+      "pageid": -303726,
+      "original_name": "Cinchona officinalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "79",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303726",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.1 (1887), Plate 79 III [BHL 303726]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "cinchona-officinalis-kohler-1897",
+      "pageid": 255520,
+      "original_name": "Cinchona officinalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "180",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cinchona_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-180.jpg",
+      "file_title": "File:Cinchona officinalis - Köhler–s Medizinal-Pflanzen-180.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:Cinchona_officinalis_(K%C3%B6hler).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

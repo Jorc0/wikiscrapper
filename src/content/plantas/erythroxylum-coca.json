@@ -1,0 +1,45 @@
+{
+  "taxon": {
+    "accepted": "Erythroxylum coca",
+    "authorship": "Lam.",
+    "rank": "species",
+    "genus": "Erythroxylum",
+    "family": "Erythroxylaceae",
+    "gbif_id": 2873939,
+    "wikidata": "Q158018",
+    "common_es": [
+      "coca",
+      "hayo"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "erythroxylum-coca-kohler-1887",
+      "pageid": 44486453,
+      "original_name": "Erythroxylum coca",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "82",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303732",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_82)_BHL303732.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 82) BHL303732.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_82)_(6972257332).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

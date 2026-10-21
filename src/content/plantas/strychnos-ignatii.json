@@ -1,0 +1,95 @@
+{
+  "taxon": {
+    "accepted": "Strychnos ignatii",
+    "authorship": "Bergius",
+    "rank": "species",
+    "genus": "Strychnos",
+    "family": "Loganiaceae",
+    "gbif_id": 5645763,
+    "wikidata": "Q1296183",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "strychnos-ignatii-kohler-1883",
+      "pageid": 255463,
+      "original_name": "Strychnos ignatii",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "132",
+      "year": 1883,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte : Atlas zur Pharmacopoea germanica , from MBG Rare Books",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Strychnos_ignatii_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-132.jpg",
+      "file_title": "File:Strychnos ignatii - Köhler–s Medizinal-Pflanzen-132.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#72a423",
+          "share": 0.061
+        },
+        {
+          "hex": "#ebc71a",
+          "share": 0.053
+        },
+        {
+          "hex": "#1b4f02",
+          "share": 0.051
+        },
+        {
+          "hex": "#51870c",
+          "share": 0.04
+        },
+        {
+          "hex": "#a28815",
+          "share": 0.037
+        }
+      ],
+      "images": {
+        "full": "/laminas/255463-1600w.webp",
+        "medium": "/laminas/255463-800w.webp",
+        "thumb": "/laminas/255463-400w.webp",
+        "width": 800,
+        "height": 1028,
+        "formats": [
+          "webp"
+        ]
+      }
+    },
+    {
+      "id": "strychnos-ignatii-kohler-1883-5212642",
+      "pageid": 5212642,
+      "original_name": "Strychnos ignatii",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1883,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte : Atlas zur Pharmacopoea germanica , from MBG Rare Books",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Koeh-132-original.jpg",
+      "file_title": "File:Koeh-132-original.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

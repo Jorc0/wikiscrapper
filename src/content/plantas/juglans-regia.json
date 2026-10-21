@@ -1,0 +1,79 @@
+{
+  "taxon": {
+    "accepted": "Juglans regia",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Juglans",
+    "family": "Juglandaceae",
+    "gbif_id": 3054368,
+    "wikidata": "Q46871",
+    "common_es": [
+      "nogal común",
+      "nogal del Viejo Mundo",
+      "nogal",
+      "nogal persa",
+      "noguer",
+      "nogueira",
+      "nou",
+      "nogal de Castilla",
+      "nogal europeo",
+      "nogal español"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "juglans-regia-kohler-1887",
+      "pageid": 44484368,
+      "original_name": "Juglans regia",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "4",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303568",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_4)_BHL303568.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 4) BHL303568.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303568",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_4)_(6972229828).jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "juglans-regia-kohler-1887-66457804",
+      "pageid": 66457804,
+      "original_name": "Juglans regia",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinalpflanzen",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler_Walnuss_1887.jpg",
+      "file_title": "File:Köhler Walnuss 1887.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

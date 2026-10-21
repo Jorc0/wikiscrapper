@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Rheum officinale",
+    "authorship": "Baill.",
+    "rank": "species",
+    "genus": "Rheum",
+    "family": "Polygonaceae",
+    "gbif_id": 2888865,
+    "wikidata": "Q312527",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "rheum-officinale-kohler-1890",
+      "pageid": 42766824,
+      "original_name": "Rheum officinale",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "163",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8231747733",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_163)_(8231747733).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 163) (8231747733).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303264"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

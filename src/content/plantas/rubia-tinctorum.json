@@ -1,0 +1,49 @@
+{
+  "taxon": {
+    "accepted": "Rubia tinctorum",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Rubia",
+    "family": "Rubiaceae",
+    "gbif_id": 2892272,
+    "wikidata": "Q163641",
+    "common_es": [
+      "raspa-lengua",
+      "rubia que se planta y labra",
+      "sangra-lengua",
+      "rúbea",
+      "sangralengua",
+      "rubia de tintes",
+      "rubia de tintoreros",
+      "rubea"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "rubia-tinctorum-kohler-bhl-1898",
+      "pageid": -302536,
+      "original_name": "Rubia tinctorum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "53",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302536",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 53 [BHL 302536]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

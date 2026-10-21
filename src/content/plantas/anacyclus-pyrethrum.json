@@ -1,0 +1,69 @@
+{
+  "taxon": {
+    "accepted": "Anacyclus pyrethrum",
+    "authorship": "(L.) Link",
+    "rank": "species",
+    "genus": "Anacyclus",
+    "family": "Asteraceae",
+    "gbif_id": 3148578,
+    "wikidata": "Q1855185",
+    "common_es": [
+      "pelitre"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "anacyclus-pyrethrum-kohler-1887",
+      "pageid": 86301262,
+      "original_name": "Anacyclus pyrethrum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinalatlas",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Piretrum_K%C3%B6hler.jpg",
+      "file_title": "File:Piretrum Köhler.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "anacyclus-pyrethrum-kohler-1890",
+      "pageid": 42767115,
+      "original_name": "Anacyclus pyrethrum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "112",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232785066",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_112)_(8232785066).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 112) (8232785066).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303160"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

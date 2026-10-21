@@ -1,0 +1,51 @@
+{
+  "taxon": {
+    "accepted": "Carapichea ipecacuanha",
+    "authorship": "(Brot.) L.Andersson",
+    "rank": "species",
+    "genus": "Carapichea",
+    "family": "Rubiaceae",
+    "gbif_id": 2921359,
+    "wikidata": "Q756292",
+    "common_es": [
+      "ipecacuana",
+      "raiz brasileña",
+      "ipecac",
+      "poaja",
+      "raíz brasilena",
+      "bejuquillo",
+      "raicilla",
+      "raíz brasileña"
+    ],
+    "original_names": [
+      "Psychotria ipecacuanha"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "carapichea-ipecacuanha-kohler-bhl-1890",
+      "pageid": -303144,
+      "original_name": "Psychotria ipecacuanha",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "105",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303144",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 105 [BHL 303144]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

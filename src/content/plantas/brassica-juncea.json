@@ -1,0 +1,67 @@
+{
+  "taxon": {
+    "accepted": "Brassica juncea",
+    "authorship": "(L.) Czern.",
+    "rank": "species",
+    "genus": "Brassica",
+    "family": "Brassicaceae",
+    "gbif_id": 3042751,
+    "wikidata": "Q504781",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "brassica-juncea-kohler-1887",
+      "pageid": 10990057,
+      "original_name": "Brassica juncea",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Hermann Adolf Köhler (1834 - 1879)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler1 (index) http://caliban.mpiz-koeln.mpg.de/koehler1/high/DSC_2600.jpg (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brassica_juncea_(K%C3%B6hler).jpg",
+      "file_title": "File:Brassica juncea (Köhler).jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "brassica-juncea-kohler-1887-14",
+      "pageid": 44484687,
+      "original_name": "Brassica juncea",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "14",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303590",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_14_a)_BHL303590.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 14 a) BHL303590.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_14_a)_(7118312353).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

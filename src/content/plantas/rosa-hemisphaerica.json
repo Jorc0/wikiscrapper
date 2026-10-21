@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Rosa hemisphaerica",
+    "authorship": "Herrm.",
+    "rank": "species",
+    "genus": "Rosa",
+    "family": "Rosaceae",
+    "gbif_id": 3007226,
+    "wikidata": "Q3442108",
+    "common_es": [],
+    "original_names": [
+      "Rosa sulfurea"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "rosa-hemisphaerica-redoute-roses-1817",
+      "pageid": 14953444,
+      "original_name": "Rosa sulfurea",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Georges Jansoone ( JoJan ) - artwork by Pierre-Joseph Redouté",
+      "work": "Les Roses",
+      "source": "redoute_roses",
+      "origin": "commons",
+      "plate": null,
+      "year": 1817,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Own work - photo made at an art auction in Belgium",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rosa_sulfurea_001.JPG",
+      "file_title": "File:Rosa sulfurea 001.JPG",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

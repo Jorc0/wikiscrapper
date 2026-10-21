@@ -1,0 +1,55 @@
+{
+  "taxon": {
+    "accepted": "Lavandula angustifolia",
+    "authorship": "Mill.",
+    "rank": "species",
+    "genus": "Lavandula",
+    "family": "Lamiaceae",
+    "gbif_id": 2927305,
+    "wikidata": "Q42081",
+    "common_es": [
+      "lavándula macho",
+      "espígola",
+      "espliego de la hoja angosta",
+      "espigol",
+      "esplego",
+      "espliego francés",
+      "espliego común",
+      "aljucema",
+      "lavándula hembra",
+      "espigola"
+    ],
+    "original_names": [
+      "Lavandula angustifolia subsp. pyrenaica"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "lavandula-angustifolia-kohler-1887",
+      "pageid": 44485867,
+      "original_name": "Lavandula angustifolia subsp. pyrenaica",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "60",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303684",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_60)_BHL303684.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 60) BHL303684.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_60)_(6972249268).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

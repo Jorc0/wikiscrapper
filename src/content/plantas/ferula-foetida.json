@@ -1,0 +1,71 @@
+{
+  "taxon": {
+    "accepted": "Ferula foetida",
+    "authorship": "(Bunge) Regel",
+    "rank": "species",
+    "genus": "Ferula",
+    "family": "Apiaceae",
+    "gbif_id": 7704723,
+    "wikidata": "Q15577798",
+    "common_es": [],
+    "original_names": [
+      "Ferula asa-foetida"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "ferula-foetida-kohler-1887",
+      "pageid": 66031784,
+      "original_name": "Ferula asa-foetida",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinalpflanzen No 147",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ferula_asa-foetida.jpg",
+      "file_title": "File:Ferula asa-foetida.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:Koeh_061-nocaps.jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "ferula-foetida-kohler-1897",
+      "pageid": 67401701,
+      "original_name": "Ferula foetida",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images The Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Koeh_061.png",
+      "file_title": "File:Koeh 061.png",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_147)_(8232801486).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

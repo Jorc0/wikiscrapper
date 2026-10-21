@@ -1,0 +1,110 @@
+# Configuración del catálogo botánico (python -m catalogo ...)
+
+[general]
+# Wikimedia exige un User-Agent que identifique el proyecto y dé un contacto (email o URL).
+# Para no publicar tu email, defínelo en .env como CATALOGO_USER_AGENT (tiene prioridad).
+user_agent = "BotanicoCatalog/0.1 (contacto: CAMBIA-ESTO@example.org)"
+var_dir = "var"   # base de datos, caché de descargas y variantes generadas (fuera del sitio)
+
+# ---------------------------------------------------------------------------
+# Colecciones. `category` es el nombre exacto en Commons (sin "Category:").
+#   depth        niveles de subcategorías a recorrer
+#   include      regex: solo se siguen subcategorías que coincidan (evita que el
+#                rastreo se escape a categorías de especie llenas de fotos)
+#   exclude      regex: subcategorías que se ignoran
+#   plate_regex  regex con un grupo para el número de lámina en el título
+#   year/artist  valores por defecto si los metadatos no los traen
+# ---------------------------------------------------------------------------
+
+[sources.kohler]
+work = "Köhler's Medizinal-Pflanzen"
+category = "Köhlers Medizinal-Pflanzen"
+depth = 2
+include = "Köhler"
+exclude = "Thumbsize"
+plate_regex = '(?i)(?:\b(?:Tafel|Plate)\s*|Pflanzen-)(\d+)'
+year = 1887
+artist = "Walther Otto Müller"
+
+[sources.curtis]
+work = "Curtis's Botanical Magazine"
+category = "Curtis's Botanical Magazine"
+depth = 1
+include = "Botanical Magazine"
+exclude = "index pages"
+plate_regex = '(?i)\b(?:pl|plate|t)\.?\s*(\d+)'
+
+[sources.flora_batava]
+work = "Flora Batava"
+category = "Flora Batava - KB copy"
+depth = 1
+include = "Flora Batava"
+
+[sources.redoute_liliacees]
+work = "Les Liliacées"
+category = "Les liliacées"
+depth = 1
+include = "liliac"
+plate_regex = '(?i)\b(?:t|pl|plate)\.?\s*(\d+)'
+year = 1805
+artist = "Pierre-Joseph Redouté"
+
+[sources.redoute_roses]
+work = "Les Roses"
+category = "Les Roses (Redouté)"
+year = 1817
+artist = "Pierre-Joseph Redouté"
+
+[sources.blanco]
+work = "Flora de Filipinas"
+category = "Flora de Filipinas"
+plate_regex = 'Blanco(\d+\.\d+[a-z]?)'
+year = 1880
+
+[sources.thome]
+work = "Flora von Deutschland, Österreich und der Schweiz"
+category = "Thomé, Flora von Deutschland"
+depth = 1
+include = "Thom"
+plate_regex = '\bp(\d+)\b'
+year = 1885
+artist = "Walther Otto Müller"
+
+# --- Biodiversity Heritage Library -----------------------------------------
+# En lugar de `category`, `bhl_title` (el número de biodiversitylibrary.org/bibliography/N).
+# Necesita BHL_API_KEY en .env. Usa el mismo `work` que la fuente de Commons equivalente
+# para que una lámina presente en las dos se detecte como duplicada por su número.
+# bhl_items = [10836]   # opcional: solo estos volúmenes (ItemID)
+
+[sources.kohler_bhl]
+work = "Köhler's Medizinal-Pflanzen"
+bhl_title = 623
+artist = "Walther Otto Müller"
+
+# ---------------------------------------------------------------------------
+[filters]
+min_width = 800        # px; descarta recortes, firmas y miniaturas subidas como archivo
+min_confidence = 90    # confianza mínima de GBIF para aceptar coincidencias aproximadas
+dup_hamming = 8        # bits de diferencia máximos entre hashes perceptuales para ser duplicado
+title_exclude = '(?i)title ?page|titelblatt|frontispi|\bportada|\bcover\b|\bindex\b|inhalt|\bcontents\b|portrait|\bmaps?\b|\bkarte\b|photo|herbarium|specimen'
+category_exclude = '(?i)^(photographs|title pages|frontispieces|book covers|index pages|portraits|maps)\b|herbarium specimens'
+
+[images]
+download_width = 1920  # Wikimedia solo sirve miniaturas de tamaños estándar (…, 960, 1280, 1920, 3840)
+request_interval = 2.0 # segundos entre descargas; las miniaturas sin caché tienen un límite estricto por IP
+variants = { full = 1600, medium = 800, thumb = 400 }
+formats = ["webp"]     # añade "avif" para generar también AVIF (más lento de codificar)
+quality = 82
+
+[export]
+dir = "src/content/plantas"
+# URL pública de las imágenes. R2_PUBLIC_URL o CATALOGO_IMAGE_BASE tienen prioridad.
+image_base = ""
+
+# ---------------------------------------------------------------------------
+# Correcciones a mano, por título exacto del archivo en Commons.
+# Tras editar, vuelve a ejecutar:  taxonomy --refresh, filter, dedupe, export
+# ---------------------------------------------------------------------------
+[overrides]
+# "File:Ejemplo Pyrus malus.jpg" = { name = "Malus domestica" }
+# "File:Ejemplo portada.jpg" = { reject = "es la portada del volumen" }

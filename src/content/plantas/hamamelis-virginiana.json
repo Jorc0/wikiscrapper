@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Hamamelis virginiana",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Hamamelis",
+    "family": "Hamamelidaceae",
+    "gbif_id": 3152827,
+    "wikidata": "Q913129",
+    "common_es": [
+      "avellano de bruja"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "hamamelis-virginiana-kohler-bhl-1898",
+      "pageid": -302508,
+      "original_name": "Hamamelis virginiana",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "39",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302508",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 39 [BHL 302508]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "taxon": {
+    "accepted": "Arnica montana",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Arnica",
+    "family": "Asteraceae",
+    "gbif_id": 5405976,
+    "wikidata": "Q207848",
+    "common_es": [
+      "tabaco de la montaña",
+      "doronico de Alemania",
+      "flor de tabaco",
+      "talpica",
+      "hierba de las caídas",
+      "yerba de las caidas",
+      "hierba de las caidas",
+      "tabaco de la montana",
+      "arnika",
+      "estornudadera"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "arnica-montana-kohler-1887",
+      "pageid": 44484612,
+      "original_name": "Arnica montana",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "12",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303584",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_12)_BHL303584.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 12) BHL303584.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_12)_(6972232606).jpg",
+        "https://commons.wikimedia.org/wiki/File:Koeh_015.png",
+        "https://commons.wikimedia.org/wiki/File:Koeh_015.jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "arnica-montana-kohler-1897",
+      "pageid": 255279,
+      "original_name": "Arnica montana",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhlers Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "015",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images The Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Arnica_montana_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-015.jpg",
+      "file_title": "File:Arnica montana - Köhler–s Medizinal-Pflanzen-015.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#d19b04",
+          "share": 0.054
+        },
+        {
+          "hex": "#d8d3ab",
+          "share": 0.052
+        },
+        {
+          "hex": "#1c2a08",
+          "share": 0.045
+        },
+        {
+          "hex": "#a2a055",
+          "share": 0.042
+        },
+        {
+          "hex": "#8a8528",
+          "share": 0.031
+        }
+      ],
+      "images": {
+        "full": "/laminas/255279-1600w.webp",
+        "medium": "/laminas/255279-800w.webp",
+        "thumb": "/laminas/255279-400w.webp",
+        "width": 1600,
+        "height": 2053,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

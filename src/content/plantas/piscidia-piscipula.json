@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Piscidia piscipula",
+    "authorship": "(L.) Sarg.",
+    "rank": "species",
+    "genus": "Piscidia",
+    "family": "Fabaceae",
+    "gbif_id": 2956069,
+    "wikidata": "Q10968429",
+    "common_es": [],
+    "original_names": [
+      "Dalbergieae papilionaceae"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "piscidia-piscipula-kohler-bhl-1898",
+      "pageid": -302512,
+      "original_name": "Dalbergieae papilionaceae",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "41",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302512",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 41 [BHL 302512]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

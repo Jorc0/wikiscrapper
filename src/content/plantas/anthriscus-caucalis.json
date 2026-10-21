@@ -1,0 +1,51 @@
+{
+  "taxon": {
+    "accepted": "Anthriscus caucalis",
+    "authorship": "M.Bieb.",
+    "rank": "species",
+    "genus": "Anthriscus",
+    "family": "Apiaceae",
+    "gbif_id": 5371743,
+    "wikidata": "Q848142",
+    "common_es": [
+      "ahogagatos",
+      "ahoga-gatos",
+      "ahogasuegras",
+      "ahogaviejas",
+      "anís pegadizo",
+      "antrisco"
+    ],
+    "original_names": [
+      "Anthriscus sylvestris"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "anthriscus-caucalis-kohler-1883",
+      "pageid": 72758542,
+      "original_name": "Anthriscus sylvestris",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen; Max Vogtherr; M. Gurke; https://www.biodiversitylibrary.org/bibliography/623#/details",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1883,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte; Volume 3, plate 37 https://biodiversitylibrary.org/page/302504",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Anthriscus_sylvestris_(K%C3%B6hler%27s_Medizinal-Pflanzen).jpg",
+      "file_title": "File:Anthriscus sylvestris (Köhler's Medizinal-Pflanzen).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/302504"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

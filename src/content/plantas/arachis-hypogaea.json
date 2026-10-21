@@ -1,0 +1,48 @@
+{
+  "taxon": {
+    "accepted": "Arachis hypogaea",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Arachis",
+    "family": "Fabaceae",
+    "gbif_id": 5353770,
+    "wikidata": "Q37383",
+    "common_es": [
+      "maníes",
+      "cacahuate",
+      "cacahuete",
+      "alcahué",
+      "manies",
+      "alcahue",
+      "maní"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "arachis-hypogaea-kohler-1887",
+      "pageid": 255500,
+      "original_name": "Arachis hypogaea",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "163",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images - Scientific species names",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg",
+      "file_title": "File:Arachis hypogaea - Köhler–s Medizinal-Pflanzen-163.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

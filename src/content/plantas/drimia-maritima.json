@@ -1,0 +1,44 @@
+{
+  "taxon": {
+    "accepted": "Drimia maritima",
+    "authorship": "(L.) Stearn",
+    "rank": "species",
+    "genus": "Drimia",
+    "family": "Asparagaceae",
+    "gbif_id": 2776790,
+    "wikidata": "Q161788",
+    "common_es": [
+      "urginea marítima"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "drimia-maritima-kohler-1890",
+      "pageid": 42766829,
+      "original_name": "Drimia maritima",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "162",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232809484",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_162)_(8232809484).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 162) (8232809484).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303262"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

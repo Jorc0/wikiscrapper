@@ -1,0 +1,81 @@
+{
+  "taxon": {
+    "accepted": "Althaea officinalis",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Althaea",
+    "family": "Malvaceae",
+    "gbif_id": 3152520,
+    "wikidata": "Q158496",
+    "common_es": [
+      "bismalva",
+      "malvavisco",
+      "malvavizco",
+      "lavaradisco",
+      "camarmaje",
+      "malbaxuri",
+      "hierbacañamera",
+      "malvavisco común",
+      "malbaxuni",
+      "yerba cañamera",
+      "vivisco",
+      "hierba cañamera"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "althaea-officinalis-kohler-1887",
+      "pageid": 10947740,
+      "original_name": "Althaea officinalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Hermann Adolf Köhler (1834 - 1879)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler1 (index) http://caliban.mpiz-koeln.mpg.de/koehler1/high/DSC_2661.html (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Althaea_officinalis_(K%C3%B6hler).jpg",
+      "file_title": "File:Althaea officinalis (Köhler).jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "althaea-officinalis-kohler-1887-42",
+      "pageid": 44485340,
+      "original_name": "Althaea officinalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "42",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303646",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_42)_BHL303646.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 42) BHL303646.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303646",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_42)_(6972242796).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

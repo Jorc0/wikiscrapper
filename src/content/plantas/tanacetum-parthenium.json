@@ -1,0 +1,53 @@
+{
+  "taxon": {
+    "accepted": "Tanacetum parthenium",
+    "authorship": "(L.) Sch.Bip.",
+    "rank": "species",
+    "genus": "Tanacetum",
+    "family": "Asteraceae",
+    "gbif_id": 3118430,
+    "wikidata": "Q818481",
+    "common_es": [
+      "cochitzapotl",
+      "flor de la calentura",
+      "santa María blanca",
+      "hierba de altamira",
+      "chapote",
+      "artemiza",
+      "santa maría",
+      "gamaza",
+      "flor de santos",
+      "santa Maria blanca"
+    ],
+    "original_names": [
+      "Anthemideae chrysanthemum"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "tanacetum-parthenium-kohler-bhl-1898",
+      "pageid": -302542,
+      "original_name": "Anthemideae chrysanthemum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "56",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302542",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 56 [BHL 302542]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "taxon": {
+    "accepted": "Elymus repens",
+    "authorship": "(L.) Gould",
+    "rank": "species",
+    "genus": "Elymus",
+    "family": "Poaceae",
+    "gbif_id": 5290299,
+    "wikidata": "Q276262",
+    "common_es": [
+      "grama vulgar de Espana",
+      "grama de las boticas de Alemania",
+      "grama vulgar de las boticas",
+      "grama vulgar de España",
+      "grama canina rizada"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "elymus-repens-kohler-1890",
+      "pageid": 42767493,
+      "original_name": "Elymus repens",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "86",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232771454",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_86)_(8232771454).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 86) (8232771454).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303102"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

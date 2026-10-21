@@ -1,0 +1,100 @@
+{
+  "taxon": {
+    "accepted": "Atropa belladonna",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Atropa",
+    "family": "Solanaceae",
+    "gbif_id": 3802655,
+    "wikidata": "Q156091",
+    "common_es": [
+      "belladona",
+      "beladona",
+      "belladama",
+      "belladonna"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "atropa-belladonna-kohler-1887",
+      "pageid": 10952011,
+      "original_name": "Atropa belladonna",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Hermann Adolf Köhler (1834 - 1879)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler (index) http://caliban.mpiz-koeln.mpg.de/koehler/BELLADONNA.jpg (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Atropa_belladonna_(K%C3%B6hler).jpg",
+      "file_title": "File:Atropa belladonna (Köhler).jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "atropa-belladonna-kohler-1897",
+      "pageid": 255282,
+      "original_name": "Atropa belladonna",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "018",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images The Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Atropa_belladonna_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-018.jpg",
+      "file_title": "File:Atropa belladonna - Köhler–s Medizinal-Pflanzen-018.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#47510a",
+          "share": 0.067
+        },
+        {
+          "hex": "#728316",
+          "share": 0.06
+        },
+        {
+          "hex": "#323908",
+          "share": 0.054
+        },
+        {
+          "hex": "#a4a651",
+          "share": 0.035
+        },
+        {
+          "hex": "#b0b469",
+          "share": 0.032
+        }
+      ],
+      "images": {
+        "full": "/laminas/255282-1600w.webp",
+        "medium": "/laminas/255282-800w.webp",
+        "thumb": "/laminas/255282-400w.webp",
+        "width": 1600,
+        "height": 1852,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

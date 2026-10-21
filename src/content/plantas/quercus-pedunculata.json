@@ -1,0 +1,40 @@
+{
+  "taxon": {
+    "accepted": "Quercus pedunculata",
+    "authorship": "Nee ex A.DC., 1864",
+    "rank": "species",
+    "genus": "Quercus",
+    "family": "Fagaceae",
+    "gbif_id": 7576075,
+    "wikidata": null,
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "quercus-pedunculata-kohler-bhl-1887",
+      "pageid": -303622,
+      "original_name": "Quercus pedunculata",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "30",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303622",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.1 (1887), Plate 30 [BHL 303622]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

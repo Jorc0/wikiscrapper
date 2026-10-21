@@ -1,0 +1,95 @@
+{
+  "taxon": {
+    "accepted": "Saba comorensis",
+    "authorship": "(Bojer) Pichon",
+    "rank": "species",
+    "genus": "Saba",
+    "family": "Apocynaceae",
+    "gbif_id": 3614900,
+    "wikidata": "Q4997669",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "saba-comorensis-kohler-1887",
+      "pageid": 255363,
+      "original_name": "Saba comorensis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, in Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "085",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "MBG Rare Books or List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Saba_comorensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-085.jpg",
+      "file_title": "File:Saba comorensis - Köhler–s Medizinal-Pflanzen-085.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#dcd5b9",
+          "share": 0.05
+        },
+        {
+          "hex": "#2a4e08",
+          "share": 0.048
+        },
+        {
+          "hex": "#759234",
+          "share": 0.046
+        },
+        {
+          "hex": "#cba01c",
+          "share": 0.04
+        },
+        {
+          "hex": "#406812",
+          "share": 0.034
+        }
+      ],
+      "images": {
+        "full": "/laminas/255363-1600w.webp",
+        "medium": "/laminas/255363-800w.webp",
+        "thumb": "/laminas/255363-400w.webp",
+        "width": 800,
+        "height": 1028,
+        "formats": [
+          "webp"
+        ]
+      }
+    },
+    {
+      "id": "saba-comorensis-kohler-1887-5198870",
+      "pageid": 5198870,
+      "original_name": "Saba comorensis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, in Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "MBG Rare Books or List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Koeh-085-original.jpg",
+      "file_title": "File:Koeh-085-original.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

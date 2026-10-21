@@ -1,0 +1,113 @@
+{
+  "taxon": {
+    "accepted": "Taraxacum officinale",
+    "authorship": "Weber ex F.H.Wigg.",
+    "rank": "species",
+    "genus": "Taraxacum",
+    "family": "Asteraceae",
+    "gbif_id": 5394163,
+    "wikidata": "Q131219",
+    "common_es": [
+      "achicoria amarga",
+      "achicoria amarilla",
+      "achicoria silvestre",
+      "achicoria",
+      "almirón",
+      "amargón",
+      "botón de oro",
+      "bufas de lobo",
+      "bulanico",
+      "chinita de campo",
+      "corona de fraile",
+      "diente de león",
+      "flor de macho",
+      "frango",
+      "lechiriega",
+      "lechuguilla",
+      "panadero",
+      "peeta",
+      "pelusilla",
+      "radicha",
+      "radicheta",
+      "pelosilla",
+      "taraxaco y tatusia",
+      "taraxacón",
+      "taraxacum officinale agg.",
+      "chicharrina",
+      "taraxacon",
+      "yerba león",
+      "hocico de puerco",
+      "pelufre",
+      "churramama",
+      "también pelosilla",
+      "fozones",
+      "diente de leon",
+      "taxacon",
+      "lecharina",
+      "leicheriega",
+      "flor de sapu"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "taraxacum-officinale-kohler-1887",
+      "pageid": 255466,
+      "original_name": "Taraxacum officinale",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "135",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images The Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Taraxacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-135.jpg",
+      "file_title": "File:Taraxacum officinale - Köhler–s Medizinal-Pflanzen-135.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_5)_BHL303570.jpg",
+        "https://commons.wikimedia.org/wiki/File:Taraxacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-135_0243-caps.jpg",
+        "https://commons.wikimedia.org/wiki/File:Taraxacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-135_0243-scan.jpg"
+      ],
+      "palette": [
+        {
+          "hex": "#70600c",
+          "share": 0.062
+        },
+        {
+          "hex": "#4c3b08",
+          "share": 0.046
+        },
+        {
+          "hex": "#a99c52",
+          "share": 0.042
+        },
+        {
+          "hex": "#c7b66e",
+          "share": 0.04
+        },
+        {
+          "hex": "#ded7ba",
+          "share": 0.032
+        }
+      ],
+      "images": {
+        "full": "/laminas/255466-1600w.webp",
+        "medium": "/laminas/255466-800w.webp",
+        "thumb": "/laminas/255466-400w.webp",
+        "width": 1600,
+        "height": 2201,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

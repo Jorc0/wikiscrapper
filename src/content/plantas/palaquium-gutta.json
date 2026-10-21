@@ -1,0 +1,72 @@
+{
+  "taxon": {
+    "accepted": "Palaquium gutta",
+    "authorship": "(Hook.) Baill.",
+    "rank": "species",
+    "genus": "Palaquium",
+    "family": "Sapotaceae",
+    "gbif_id": 7520030,
+    "wikidata": "Q160029",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "palaquium-gutta-kohler-1897",
+      "pageid": 255378,
+      "original_name": "Palaquium gutta",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "099",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "(1883) Köhler’s Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte : Atlas zur Pharmacopoea germanica, austriaca, belgica, danica, helvetica, hungarica, rossica, suecica, Neerlandica, British pharmacopoeia, zum Codex medicamentarius, sowie zur Pharmacopoeia of the United States of America , 3, Fr. Eugen Köhler . Via Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Palaquium_gutta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-099.jpg",
+      "file_title": "File:Palaquium gutta - Köhler–s Medizinal-Pflanzen-099.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/302432"
+      ],
+      "palette": [
+        {
+          "hex": "#dcab23",
+          "share": 0.061
+        },
+        {
+          "hex": "#516118",
+          "share": 0.051
+        },
+        {
+          "hex": "#253a0b",
+          "share": 0.051
+        },
+        {
+          "hex": "#dedab2",
+          "share": 0.047
+        },
+        {
+          "hex": "#817d28",
+          "share": 0.043
+        }
+      ],
+      "images": {
+        "full": "/laminas/255378-1600w.webp",
+        "medium": "/laminas/255378-800w.webp",
+        "thumb": "/laminas/255378-400w.webp",
+        "width": 1600,
+        "height": 2014,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "taxon": {
+    "accepted": "Adonis vernalis",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Adonis",
+    "family": "Ranunculaceae",
+    "gbif_id": 5371711,
+    "wikidata": "Q147648",
+    "common_es": [
+      "adonis de primavera",
+      "adonis vernal",
+      "eléboro falso con flor de buftalmo",
+      "flor de Adonis",
+      "ojo de perdiz",
+      "eleboro falso con flor de buftalmo"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "adonis-vernalis-kohler-1887",
+      "pageid": 255487,
+      "original_name": "Adonis vernalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Müller, Carl Friedrich Schmidt (*1812), Published in Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "152",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Adonis_vernalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-152.jpg",
+      "file_title": "File:Adonis vernalis - Köhler–s Medizinal-Pflanzen-152.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/302560"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "taxon": {
+    "accepted": "Myroxylon balsamum",
+    "authorship": "(L.) Harms",
+    "rank": "species",
+    "genus": "Myroxylon",
+    "family": "Fabaceae",
+    "gbif_id": 5357190,
+    "wikidata": "Q15290525",
+    "common_es": [
+      "árbol de bálsamo",
+      "bálsamo",
+      "bálsamo de Tolú"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "myroxylon-balsamum-kohler-1890",
+      "pageid": 42766695,
+      "original_name": "Myroxylon balsamum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "184",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8231758065",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_184)_(8231758065).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 184) (8231758065).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303308"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "myroxylon-balsamum-kohler-1890-183",
+      "pageid": 42766706,
+      "original_name": "Myroxylon balsamum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "183",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232819902",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_183)_(8232819902).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 183) (8232819902).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303306"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

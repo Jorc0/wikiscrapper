@@ -1,0 +1,48 @@
+{
+  "taxon": {
+    "accepted": "Chamaemelum nobile",
+    "authorship": "(L.) All.",
+    "rank": "species",
+    "genus": "Chamaemelum",
+    "family": "Asteraceae",
+    "gbif_id": 5391599,
+    "wikidata": "Q5723577",
+    "common_es": [
+      "camomila común",
+      "camamila de Moncayo",
+      "chamaemelum nóbile",
+      "rosa de manzanilla",
+      "camomila de jardin"
+    ],
+    "original_names": [
+      "Anthemis nobilis"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "chamaemelum-nobile-kohler-bhl-1898",
+      "pageid": -302448,
+      "original_name": "Anthemis nobilis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "9",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302448",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 9 [BHL 302448]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

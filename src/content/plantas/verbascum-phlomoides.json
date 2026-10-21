@@ -1,0 +1,43 @@
+{
+  "taxon": {
+    "accepted": "Verbascum phlomoides",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Verbascum",
+    "family": "Scrophulariaceae",
+    "gbif_id": 3171948,
+    "wikidata": "Q160018",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "verbascum-phlomoides-kohler-1887",
+      "pageid": 255478,
+      "original_name": "Verbascum phlomoides",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "144",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "The Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Verbascum_phlomoides_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-144.jpg",
+      "file_title": "File:Verbascum phlomoides - Köhler–s Medizinal-Pflanzen-144.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:Verbascum_phlomoides_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-144_0325-caps.jpg",
+        "https://commons.wikimedia.org/wiki/File:Verbascum_phlomoides_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-144_0325.png"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

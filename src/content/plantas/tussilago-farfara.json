@@ -1,0 +1,58 @@
+{
+  "taxon": {
+    "accepted": "Tussilago farfara",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Tussilago",
+    "family": "Asteraceae",
+    "gbif_id": 3149879,
+    "wikidata": "Q26302",
+    "common_es": [
+      "tussilago",
+      "pie de mula",
+      "pie de caballo",
+      "uña de asno",
+      "paso de asno",
+      "pata de asno",
+      "una de asno",
+      "espatas",
+      "potas",
+      "tusílago",
+      "piedemulo",
+      "farfara",
+      "tusillago",
+      "pata-buey",
+      "pata de mula",
+      "pie de mulo",
+      "tusilago"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "tussilago-farfara-kohler-1887",
+      "pageid": 44484465,
+      "original_name": "Tussilago farfara",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "6",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303572",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_6)_BHL303572.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 6) BHL303572.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

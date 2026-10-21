@@ -1,0 +1,46 @@
+{
+  "taxon": {
+    "accepted": "Eucalyptus globulus",
+    "authorship": "Labill.",
+    "rank": "species",
+    "genus": "Eucalyptus",
+    "family": "Myrtaceae",
+    "gbif_id": 3176787,
+    "wikidata": "Q159528",
+    "common_es": [
+      "eucalyptus saint johnii",
+      "E. globulus",
+      "E globulus"
+    ],
+    "original_names": [
+      "Eucalypteae eucalyptus"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "eucalyptus-globulus-kohler-bhl-1898",
+      "pageid": -302510,
+      "original_name": "Eucalypteae eucalyptus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "40",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302510",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 40 [BHL 302510]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

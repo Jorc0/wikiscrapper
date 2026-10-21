@@ -1,0 +1,49 @@
+{
+  "taxon": {
+    "accepted": "Olea europaea",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Olea",
+    "family": "Oleaceae",
+    "gbif_id": 5415040,
+    "wikidata": "Q37083",
+    "common_es": [
+      "olivo",
+      "jocote de mico",
+      "aceituno",
+      "acebuche",
+      "empeltre",
+      "olivera"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "olea-europaea-kohler-1890",
+      "pageid": 42767321,
+      "original_name": "Olea europaea",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "109",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232783218",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_109)_(8232783218).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 109) (8232783218).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303152"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "taxon": {
+    "accepted": "Matricaria chamomilla",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Matricaria",
+    "family": "Asteraceae",
+    "gbif_id": 8370958,
+    "wikidata": "Q28437",
+    "common_es": [
+      "manzanilla",
+      "manzanilla de Urgel",
+      "camamila del comercio",
+      "camamirla",
+      "camamilda",
+      "manzanilla del huerto",
+      "manzanilla de Aragón",
+      "bonina",
+      "manzanilla de Alemania",
+      "ojo de vaca",
+      "manzanilla de Aragon",
+      "camamilla",
+      "ojo de bue",
+      "manzanilla de los corrales"
+    ],
+    "original_names": [
+      "Matricaria recutita"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "matricaria-chamomilla-kohler-1887",
+      "pageid": 255369,
+      "original_name": "Matricaria recutita",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, in Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "091",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg",
+      "file_title": "File:Matricaria recutita - Köhler–s Medizinal-Pflanzen-091.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:Matricaria_recutita_koe.jpg"
+      ],
+      "palette": [
+        {
+          "hex": "#8c956b",
+          "share": 0.066
+        },
+        {
+          "hex": "#c6c896",
+          "share": 0.055
+        },
+        {
+          "hex": "#61694d",
+          "share": 0.049
+        },
+        {
+          "hex": "#abb58c",
+          "share": 0.045
+        }
+      ],
+      "images": {
+        "full": "/laminas/255369-1600w.webp",
+        "medium": "/laminas/255369-800w.webp",
+        "thumb": "/laminas/255369-400w.webp",
+        "width": 1600,
+        "height": 2120,
+        "formats": [
+          "webp"
+        ]
+      }
+    },
+    {
+      "id": "matricaria-chamomilla-kohler-1887-14767735",
+      "pageid": 14767735,
+      "original_name": "Matricaria chamomilla",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, in Köhler's Medizinal-Pflanzen derivative work: Esculapio ( talk )",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Koeh-091.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fiore_Asteraceae_04.png",
+      "file_title": "File:Fiore Asteraceae 04.png",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "matricaria-chamomilla-kohler-1887-14767743",
+      "pageid": 14767743,
+      "original_name": "Matricaria chamomilla",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, in Köhler's Medizinal-Pflanzen derivative work: Esculapio ( talk )",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Koeh-091.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fiore_Asteraceae_05.png",
+      "file_title": "File:Fiore Asteraceae 05.png",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "matricaria-chamomilla-kohler-1887-64",
+      "pageid": 44485986,
+      "original_name": "Matricaria chamomilla",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "64",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303694",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_64)_BHL303694.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 64) BHL303694.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_64)_(7118329899).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

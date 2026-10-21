@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Rosa rugosa",
+    "authorship": "Thunb.",
+    "rank": "species",
+    "genus": "Rosa",
+    "family": "Rosaceae",
+    "gbif_id": 3003979,
+    "wikidata": "Q634975",
+    "common_es": [],
+    "original_names": [
+      "Rosa kamtchatica"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "rosa-rugosa-redoute-roses-1817",
+      "pageid": 42039593,
+      "original_name": "Rosa kamtchatica",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Pierre-Joseph Redouté",
+      "work": "Les Roses",
+      "source": "redoute_roses",
+      "origin": "commons",
+      "plate": null,
+      "year": 1817,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Les Roses 1: 30. 1817.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rosa_kamtchatica_RED_Roses_1_171-page-001.jpg",
+      "file_title": "File:Rosa kamtchatica RED Roses 1 171-page-001.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

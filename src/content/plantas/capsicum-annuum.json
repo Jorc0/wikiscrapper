@@ -1,0 +1,101 @@
+{
+  "taxon": {
+    "accepted": "Capsicum annuum",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Capsicum",
+    "family": "Solanaceae",
+    "gbif_id": 2932944,
+    "wikidata": "Q1380",
+    "common_es": [
+      "ají",
+      "chile",
+      "pimiento morrón"
+    ],
+    "original_names": [
+      "Capsicum annum"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "capsicum-annuum-kohler-1887",
+      "pageid": 110540,
+      "original_name": "Capsicum annuum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "[1] , from book: Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte. (1887)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Illustration_Capsicum_annuum0.jpg",
+      "file_title": "File:Illustration Capsicum annuum0.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#f7f9f6",
+          "share": 0.07
+        },
+        {
+          "hex": "#698544",
+          "share": 0.067
+        },
+        {
+          "hex": "#889d65",
+          "share": 0.064
+        },
+        {
+          "hex": "#466925",
+          "share": 0.062
+        },
+        {
+          "hex": "#3b4118",
+          "share": 0.055
+        }
+      ],
+      "images": {
+        "full": "/laminas/110540-1600w.webp",
+        "medium": "/laminas/110540-800w.webp",
+        "thumb": "/laminas/110540-400w.webp",
+        "width": 1504,
+        "height": 2160,
+        "formats": [
+          "webp"
+        ]
+      }
+    },
+    {
+      "id": "capsicum-annuum-kohler-bhl-1890",
+      "pageid": -303190,
+      "original_name": "Capsicum annum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "127",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303190",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 127 [BHL 303190]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

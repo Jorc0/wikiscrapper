@@ -1,0 +1,45 @@
+{
+  "taxon": {
+    "accepted": "Pimenta dioica",
+    "authorship": "(L.) Merr.",
+    "rank": "species",
+    "genus": "Pimenta",
+    "family": "Myrtaceae",
+    "gbif_id": 3186061,
+    "wikidata": "Q158468",
+    "common_es": [
+      "malagueta",
+      "pimienta de Jamaica",
+      "pimenta de jamaica",
+      "pimienta de Tabasco"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "pimenta-dioica-kohler-bhl-1890",
+      "pageid": -303288,
+      "original_name": "Pimenta dioica",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "174",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303288",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 174 [BHL 303288]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "taxon": {
+    "accepted": "Rosa carolina",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Rosa",
+    "family": "Rosaceae",
+    "gbif_id": 3006171,
+    "wikidata": "Q2658104",
+    "common_es": [],
+    "original_names": [
+      "Rosa evratina",
+      "Rosa hudsoniana"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "rosa-carolina-redoute-roses-1817",
+      "pageid": 14953211,
+      "original_name": "Rosa evratina",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Georges Jansoone ( JoJan ) - artwork by Pierre-Joseph Redouté",
+      "work": "Les Roses",
+      "source": "redoute_roses",
+      "origin": "commons",
+      "plate": null,
+      "year": 1817,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Own work - photo made at an art auction in Belgium",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rosa_evratina_001.JPG",
+      "file_title": "File:Rosa evratina 001.JPG",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "rosa-carolina-redoute-roses-1817-76115008",
+      "pageid": 76115008,
+      "original_name": "Rosa hudsoniana",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Henry Joseph Redouté",
+      "work": "Les Roses",
+      "source": "redoute_roses",
+      "origin": "commons",
+      "plate": null,
+      "year": 1817,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://clevelandart.org/art/1965.292",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Henry_Joseph_Redout%C3%A9_-_Les_Roses-_Rosa_Hudsoniana_Salicifolia_-_1965.292_-_Cleveland_Museum_of_Art.jpg",
+      "file_title": "File:Henry Joseph Redouté - Les Roses- Rosa Hudsoniana Salicifolia - 1965.292 - Cleveland Museum of Art.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "taxon": {
+    "accepted": "Manihot esculenta",
+    "authorship": "Crantz",
+    "rank": "species",
+    "genus": "Manihot",
+    "family": "Euphorbiaceae",
+    "gbif_id": 3060998,
+    "wikidata": "Q83124",
+    "common_es": [
+      "yuca",
+      "guacamote",
+      "mandioca",
+      "cassava",
+      "harina de mandioca",
+      "almidón de mandioca",
+      "casava",
+      "almidon de mandioca",
+      "yuka"
+    ],
+    "original_names": [
+      "Manihot utilissima"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "manihot-esculenta-kohler-bhl-1898",
+      "pageid": -302444,
+      "original_name": "Manihot utilissima",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "7",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302444",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 7 [BHL 302444]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

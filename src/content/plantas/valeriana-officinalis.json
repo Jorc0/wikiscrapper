@@ -1,0 +1,76 @@
+{
+  "taxon": {
+    "accepted": "Valeriana officinalis",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Valeriana",
+    "family": "Caprifoliaceae",
+    "gbif_id": 2888763,
+    "wikidata": "Q157819",
+    "common_es": [
+      "valeriana común",
+      "balenziana",
+      "valeriana de las boticas",
+      "baleriana",
+      "valeriana",
+      "alfeñique",
+      "hierba o yerba de los gatos",
+      "valeriana medicinal"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "valeriana-officinalis-kohler-1887",
+      "pageid": 44485473,
+      "original_name": "Valeriana officinalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "47",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303656",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_47)_BHL303656.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 47) BHL303656.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303656"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "valeriana-officinalis-kohler-1897",
+      "pageid": 27851152,
+      "original_name": "Valeriana officinalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "143",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Valeriana_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-143_clean.jpg",
+      "file_title": "File:Valeriana officinalis - Köhler–s Medizinal-Pflanzen-143 clean.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

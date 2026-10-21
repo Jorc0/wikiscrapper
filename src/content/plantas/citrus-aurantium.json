@@ -1,0 +1,45 @@
+{
+  "taxon": {
+    "accepted": "Citrus aurantium",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Citrus",
+    "family": "Rutaceae",
+    "gbif_id": 8077391,
+    "wikidata": "Q147096",
+    "common_es": [
+      "naranja cachorreña",
+      "citrus x aurantium"
+    ],
+    "original_names": [
+      "Citrus vulgaris"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "citrus-aurantium-kohler-1887",
+      "pageid": 11738184,
+      "original_name": "Citrus vulgaris",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Hermann Adolf Köhler (1834 - 1879)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler1 (index) http://caliban.mpiz-koeln.mpg.de/koehler1/high/DSC_2571.jpg (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_vulgaris_(K%C3%B6hler).jpg",
+      "file_title": "File:Citrus vulgaris (Köhler).jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

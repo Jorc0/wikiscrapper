@@ -1,0 +1,109 @@
+{
+  "taxon": {
+    "accepted": "Ferula assa-foetida",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Ferula",
+    "family": "Apiaceae",
+    "gbif_id": 8113074,
+    "wikidata": "Q111185",
+    "common_es": [
+      "férula assafoétida",
+      "assafoetida",
+      "ferula assafoétida",
+      "assafetida",
+      "hing",
+      "asa fétida",
+      "asafoetida",
+      "asafétida",
+      "férula assafoetida",
+      "asafetida",
+      "asafoétida"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "ferula-assa-foetida-kohler-bhl-1890",
+      "pageid": -303230,
+      "original_name": "Ferula assa-foetida",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "147",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303230",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 147 [BHL 303230]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "ferula-assa-foetida-kohler-1897",
+      "pageid": 255333,
+      "original_name": "Ferula assa-foetida",
+      "taxon_note": null,
+      "multi_species": true,
+      "other_taxa": [
+        "Ferula foetida"
+      ],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "061",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images The Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ferula_assa-foetida_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-061.jpg",
+      "file_title": "File:Ferula assa-foetida - Köhler–s Medizinal-Pflanzen-061.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#bebcaf",
+          "share": 0.06
+        },
+        {
+          "hex": "#d0d0d0",
+          "share": 0.053
+        },
+        {
+          "hex": "#968332",
+          "share": 0.04
+        },
+        {
+          "hex": "#aea883",
+          "share": 0.039
+        },
+        {
+          "hex": "#bea33b",
+          "share": 0.038
+        }
+      ],
+      "images": {
+        "full": "/laminas/255333-1600w.webp",
+        "medium": "/laminas/255333-800w.webp",
+        "thumb": "/laminas/255333-400w.webp",
+        "width": 1600,
+        "height": 2080,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

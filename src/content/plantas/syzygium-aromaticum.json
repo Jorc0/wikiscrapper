@@ -1,0 +1,72 @@
+{
+  "taxon": {
+    "accepted": "Syzygium aromaticum",
+    "authorship": "(L.) Merr. & L.M.Perry",
+    "rank": "species",
+    "genus": "Syzygium",
+    "family": "Myrtaceae",
+    "gbif_id": 3183002,
+    "wikidata": "Q26736",
+    "common_es": [
+      "clavero",
+      "clavo de olor",
+      "clavos de olor",
+      "clavo"
+    ],
+    "original_names": [
+      "Caryophyllus aromaticus"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "syzygium-aromaticum-kohler-bhl-1890",
+      "pageid": -303186,
+      "original_name": "Syzygium aromaticum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "125",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303186",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 125 [BHL 303186]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "syzygium-aromaticum-kohler-bhl-1890-124",
+      "pageid": -303184,
+      "original_name": "Caryophyllus aromaticus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "124",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303184",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 124 [BHL 303184]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "taxon": {
+    "accepted": "Carum carvi",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Carum",
+    "family": "Apiaceae",
+    "gbif_id": 3034714,
+    "wikidata": "Q26811",
+    "common_es": [
+      "alcaravea",
+      "carvía",
+      "carvi",
+      "caros",
+      "carvia",
+      "hinojo de prado",
+      "alcarravea",
+      "alcaravia",
+      "comino de prado",
+      "alcarovea",
+      "alcarabaca",
+      "alcorobea",
+      "alcarahueya",
+      "comino de prados"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "carum-carvi-kohler-1890",
+      "pageid": 42767453,
+      "original_name": "Carum carvi",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "91",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8231711713",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_91)_(8231711713).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 91) (8231711713).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303112"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

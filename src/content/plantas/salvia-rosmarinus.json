@@ -1,0 +1,52 @@
+{
+  "taxon": {
+    "accepted": "Salvia rosmarinus",
+    "authorship": "Spenn.",
+    "rank": "species",
+    "genus": "Salvia",
+    "family": "Lamiaceae",
+    "gbif_id": 10902460,
+    "wikidata": "Q102240169",
+    "common_es": [
+      "romero",
+      "romero común",
+      "romero de huerta",
+      "romerón",
+      "romiru",
+      "rosmarino",
+      "romareda",
+      "romeral"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "salvia-rosmarinus-kohler-1887",
+      "pageid": 84311282,
+      "original_name": "Salvia rosmarinus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinalpflanzen",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler_Rosmarin1.jpg",
+      "file_title": "File:Köhler Rosmarin1.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303180",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_122)_(8231727669).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

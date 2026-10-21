@@ -1,0 +1,75 @@
+{
+  "taxon": {
+    "accepted": "Potentilla erecta",
+    "authorship": "(L.) Raeusch.",
+    "rank": "species",
+    "genus": "Potentilla",
+    "family": "Rosaceae",
+    "gbif_id": 5365576,
+    "wikidata": "Q160098",
+    "common_es": [
+      "tormentila",
+      "tomentilla"
+    ],
+    "original_names": [
+      "Potentilla tormentilla"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "potentilla-erecta-kohler-1887",
+      "pageid": 44486506,
+      "original_name": "Potentilla tormentilla",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "83",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303734",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_83)_BHL303734.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 83) BHL303734.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303734"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "potentilla-erecta-kohler-1897",
+      "pageid": 255607,
+      "original_name": "Potentilla erecta",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "248",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images The Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Potentilla_erecta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-248.jpg",
+      "file_title": "File:Potentilla erecta - Köhler–s Medizinal-Pflanzen-248.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:Potentilla_erecta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-248-whole.jpg",
+        "https://commons.wikimedia.org/wiki/File:Potentilla_erecta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-248-original.png"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

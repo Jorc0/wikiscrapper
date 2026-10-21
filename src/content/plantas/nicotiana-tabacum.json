@@ -1,0 +1,67 @@
+{
+  "taxon": {
+    "accepted": "Nicotiana tabacum",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Nicotiana",
+    "family": "Solanaceae",
+    "gbif_id": 2928774,
+    "wikidata": "Q181095",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "nicotiana-tabacum-kohler-1887",
+      "pageid": 44484747,
+      "original_name": "Nicotiana tabacum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "18",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303598",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_18)_BHL303598.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 18) BHL303598.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_18)_(7118313731).jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "nicotiana-tabacum-kohler-1887-89638767",
+      "pageid": 89638767,
+      "original_name": "Nicotiana tabacum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinal-Pflanzen",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler_Nicotiana_tabacum.jpg",
+      "file_title": "File:Köhler Nicotiana tabacum.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "taxon": {
+    "accepted": "Boswellia sacra",
+    "authorship": "Flück.",
+    "rank": "species",
+    "genus": "Boswellia",
+    "family": "Burseraceae",
+    "gbif_id": 8330171,
+    "wikidata": "Q133964",
+    "common_es": [],
+    "original_names": [
+      "Boswellia carterii"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "boswellia-sacra-kohler-1887",
+      "pageid": 12697526,
+      "original_name": "Boswellia carterii",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Hermann Adolf Köhler (1834 - 1879)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler2 (index) http://caliban.mpiz-koeln.mpg.de/koehler2/high/DSC_3290.jpg (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Boswellia_carterii_(K%C3%B6hler).jpg",
+      "file_title": "File:Boswellia carterii (Köhler).jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "boswellia-sacra-kohler-1887-73672262",
+      "pageid": 73672262,
+      "original_name": "Boswellia sacra",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinalpflanzen. Berlin, No 175",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler_Boswellia.jpg",
+      "file_title": "File:Köhler Boswellia.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303290",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_175)_(8231753929).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

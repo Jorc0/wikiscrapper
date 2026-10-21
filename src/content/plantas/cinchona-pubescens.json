@@ -1,0 +1,69 @@
+{
+  "taxon": {
+    "accepted": "Cinchona pubescens",
+    "authorship": "Vahl",
+    "rank": "species",
+    "genus": "Cinchona",
+    "family": "Rubiaceae",
+    "gbif_id": 2901294,
+    "wikidata": "Q164574",
+    "common_es": [
+      "flor nacional de ecuador"
+    ],
+    "original_names": [
+      "Cinchona succirubra"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "cinchona-pubescens-kohler-1887",
+      "pageid": 11330253,
+      "original_name": "Cinchona succirubra",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Hermann Adolf Köhler (1834 - 1879)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler1 (index) http://caliban.mpiz-koeln.mpg.de/koehler1/high/DSC_2759.html (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cinchona_succirubra_(K%C3%B6hler).jpg",
+      "file_title": "File:Cinchona succirubra (Köhler).jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "cinchona-pubescens-kohler-bhl-1887",
+      "pageid": -303722,
+      "original_name": "Cinchona succirubra",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "79",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303722",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.1 (1887), Plate 79 I [BHL 303722]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

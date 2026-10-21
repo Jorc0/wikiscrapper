@@ -1,0 +1,45 @@
+{
+  "taxon": {
+    "accepted": "Ruta graveolens",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Ruta",
+    "family": "Rutaceae",
+    "gbif_id": 3190382,
+    "wikidata": "Q25062",
+    "common_es": [
+      "ruda hortense de hojas anchas",
+      "ruda común",
+      "ruda de hojas anchas",
+      "ruda de los huertos"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "ruta-graveolens-kohler-1887",
+      "pageid": 44484914,
+      "original_name": "Ruta graveolens",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "24",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303610",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_24)_BHL303610.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 24) BHL303610.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

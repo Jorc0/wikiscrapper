@@ -1,0 +1,52 @@
+{
+  "taxon": {
+    "accepted": "Frangula alnus",
+    "authorship": "Mill.",
+    "rank": "species",
+    "genus": "Frangula",
+    "family": "Rhamnaceae",
+    "gbif_id": 3039454,
+    "wikidata": "Q146136",
+    "common_es": [
+      "arraclán",
+      "avellano bravío",
+      "gedeondo",
+      "salguera del Bierzo",
+      "sangreda",
+      "avellanito",
+      "sangrego",
+      "frángula",
+      "frangula"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "frangula-alnus-kohler-1887",
+      "pageid": 44484820,
+      "original_name": "Frangula alnus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "20",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303602",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_20)_BHL303602.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 20) BHL303602.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_20)_(6972235688).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

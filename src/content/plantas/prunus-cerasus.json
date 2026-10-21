@@ -1,0 +1,45 @@
+{
+  "taxon": {
+    "accepted": "Prunus cerasus",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Prunus",
+    "family": "Rosaceae",
+    "gbif_id": 3021922,
+    "wikidata": "Q131517",
+    "common_es": [
+      "cerezo de los pájaros",
+      "cereza de Morello",
+      "guindero",
+      "cerezo de los pajaros"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "prunus-cerasus-kohler-1887",
+      "pageid": 44485147,
+      "original_name": "Prunus cerasus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "36",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303634",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_36)_BHL303634.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 36) BHL303634.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

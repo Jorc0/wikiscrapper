@@ -1,0 +1,46 @@
+{
+  "taxon": {
+    "accepted": "Elettaria cardamomum",
+    "authorship": "(L.) Maton",
+    "rank": "species",
+    "genus": "Elettaria",
+    "family": "Zingiberaceae",
+    "gbif_id": 2759871,
+    "wikidata": "Q33466",
+    "common_es": [
+      "cardamomo",
+      "cardamón",
+      "cardamon"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "elettaria-cardamomum-kohler-1890",
+      "pageid": 42766670,
+      "original_name": "Elettaria cardamomum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "186",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232821584",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_186)_(8232821584).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 186) (8232821584).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303312"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

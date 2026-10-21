@@ -1,0 +1,73 @@
+{
+  "taxon": {
+    "accepted": "Colchicum autumnale",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Colchicum",
+    "family": "Colchicaceae",
+    "gbif_id": 2739622,
+    "wikidata": "Q152553",
+    "common_es": [
+      "acefrán",
+      "azafrán bastardo",
+      "azafrán silvestre",
+      "azafrán",
+      "cebolla montés",
+      "chicolquicos",
+      "cholquicos",
+      "colchico común",
+      "cólchico de otoño",
+      "colchico oficinal",
+      "colchico que mata",
+      "colchico",
+      "cólchico",
+      "cólquico de otoño",
+      "cólquico",
+      "despachapastores",
+      "fell de terra",
+      "fllo de sementé",
+      "flor de otoño",
+      "matacán",
+      "mataperros",
+      "narciso de otoño",
+      "quitameriendas de otoño",
+      "quitameriendas",
+      "yerba sembradera",
+      "quitameriendas de otono",
+      "cólchico de otono",
+      "acefran",
+      "colchico de otono"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "colchicum-autumnale-kohler-1887",
+      "pageid": 44484940,
+      "original_name": "Colchicum autumnale",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "25",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303612",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_25)_BHL303612.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 25) BHL303612.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303612",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_25)_(7118316073).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

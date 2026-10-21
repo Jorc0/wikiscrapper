@@ -1,0 +1,40 @@
+{
+  "taxon": {
+    "accepted": "Pterocarpus santalinus",
+    "authorship": "L.f.",
+    "rank": "species",
+    "genus": "Pterocarpus",
+    "family": "Fabaceae",
+    "gbif_id": 5708628,
+    "wikidata": "Q2392887",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "pterocarpus-santalinus-kohler-bhl-1890",
+      "pageid": -303292,
+      "original_name": "Pterocarpus santalinus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "176",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303292",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 176 [BHL 303292]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

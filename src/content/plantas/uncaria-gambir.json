@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Uncaria gambir",
+    "authorship": "(W.Hunter) Roxb.",
+    "rank": "species",
+    "genus": "Uncaria",
+    "family": "Rubiaceae",
+    "gbif_id": 5338190,
+    "wikidata": "Q910384",
+    "common_es": [],
+    "original_names": [
+      "Rubiaceae uncaria"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "uncaria-gambir-kohler-bhl-1890",
+      "pageid": -303142,
+      "original_name": "Rubiaceae uncaria",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "104",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303142",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 104 [BHL 303142]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

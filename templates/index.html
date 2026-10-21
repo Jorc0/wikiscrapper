@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FloraExplorer - Scraper Botánico Interactivo</title>
+    <!-- Google Fonts: Outfit & Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Lucide Icons CDN -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i data-lucide="sprout" class="logo-icon"></i>
+                    <span>FloraExplorer</span>
+                </div>
+                <div class="nav-tabs">
+                    <button class="nav-tab active" id="nav-btn-explorer">
+                        <i data-lucide="leaf"></i>
+                        <span>Explorador</span>
+                    </button>
+                    <button class="nav-tab" id="nav-btn-stats">
+                        <i data-lucide="bar-chart-2"></i>
+                        <span>Estadísticas</span>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="search-container">
+                <i data-lucide="search" class="search-icon"></i>
+                <input type="text" id="family-search" placeholder="Buscar familia botánica..." autocomplete="off">
+            </div>
+            
+            <div class="sidebar-scrollable">
+                <ul class="family-list" id="family-list">
+                    <!-- Dynamic List of Families -->
+                    <li class="loading-item">Cargando familias...</li>
+                </ul>
+            </div>
+        </aside>
+
+        <!-- Main Dashboard -->
+        <main class="main-content">
+            <!-- Welcome View (Default) -->
+            <div class="welcome-container" id="welcome-view">
+                <div class="welcome-card">
+                    <div class="welcome-icon-wrapper">
+                        <i data-lucide="leaf" class="welcome-icon"></i>
+                    </div>
+                    <h1>Explorador y Scraper de Ilustraciones Botánicas</h1>
+                    <p>Selecciona una familia botánica del panel lateral para comenzar a escanear las categorías de Wikimedia Commons y descargar sus ilustraciones históricas de forma organizada.</p>
+                    <div class="quick-stats">
+                        <div class="qs-item">
+                            <span class="qs-num">395</span>
+                            <span class="qs-label">Familias Disponibles</span>
+                        </div>
+                        <div class="qs-item">
+                            <span class="qs-num">887+</span>
+                            <span class="qs-label">Ilustraciones de Thomé</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Active Family Dashboard View -->
+            <div class="dashboard-view hidden" id="dashboard-view">
+                <!-- Header -->
+                <header class="dashboard-header">
+                    <div class="header-title-area">
+                        <h2 id="active-family-name">Cargando...</h2>
+                        <p class="path-display">
+                            <i data-lucide="folder" class="small-icon"></i>
+                            <span id="active-family-path">...</span>
+                        </p>
+                    </div>
+                    <div class="header-badge" id="active-family-category-link">
+                        <a href="#" target="_blank" id="commons-link">
+                            <span>Wikimedia Commons</span>
+                            <i data-lucide="external-link" class="small-icon"></i>
+                        </a>
+                    </div>
+                </header>
+
+                <!-- Statistics Grid -->
+                <section class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon-wrapper blue">
+                            <i data-lucide="database"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Archivos Detectados</span>
+                            <h3 id="stat-total">0</h3>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon-wrapper green">
+                            <i data-lucide="download-cloud"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Descargas Completadas</span>
+                            <h3 id="stat-completed">0</h3>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon-wrapper red">
+                            <i data-lucide="alert-triangle"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Errores / Bloqueos</span>
+                            <h3 id="stat-errors">0</h3>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Control Panels Layout -->
+                <div class="panels-layout">
+                    <!-- Left: Control & Scan Tree -->
+                    <div class="panel flex-3">
+                        <div class="panel-header">
+                            <h3>Gestión de la Colección</h3>
+                        </div>
+                        <div class="control-box">
+                            <div class="scan-settings">
+                                <label for="scan-depth">Profundidad del escaneo:</label>
+                                <select id="scan-depth">
+                                    <option value="0">Nivel 0 (Solo categoría raíz)</option>
+                                    <option value="1">Nivel 1 (Géneros principales)</option>
+                                    <option value="2">Nivel 2 (Especies habitual)</option>
+                                    <option value="3" selected>Nivel 3 (Profundo)</option>
+                                </select>
+                                <button id="btn-scan" class="btn btn-primary">
+                                    <i data-lucide="refresh-cw"></i>
+                                    <span>Escanear Categoría</span>
+                                </button>
+                            </div>
+                            
+                            <div class="actions-row">
+                                <button id="btn-download" class="btn btn-success" disabled>
+                                    <i data-lucide="play"></i>
+                                    <span>Iniciar Descargas (Polite)</span>
+                                </button>
+                                <button id="btn-pause" class="btn btn-danger" disabled>
+                                    <i data-lucide="pause"></i>
+                                    <span>Pausar</span>
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Category Tree View -->
+                        <div class="tree-container">
+                            <div class="tree-header-row" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                                <h4 class="section-title" style="margin: 0;">Estructura de Subcategorías Commons</h4>
+                                <div class="tree-actions" style="display: flex; gap: 6px;">
+                                    <button id="btn-tree-expand" class="btn btn-outline" style="padding: 4px 8px; font-size: 11px;">
+                                        <i data-lucide="chevrons-down" class="small-icon"></i> <span>Expandir Todo</span>
+                                    </button>
+                                    <button id="btn-tree-collapse" class="btn btn-outline" style="padding: 4px 8px; font-size: 11px;">
+                                        <i data-lucide="chevrons-up" class="small-icon"></i> <span>Colapsar Todo</span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="tree-wrapper" id="tree-wrapper">
+                                <div class="no-tree">Haz clic en "Escanear Categoría" para listar la estructura recursiva.</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Right: Live Terminal Log -->
+                    <div class="panel flex-2 flex-col">
+                        <div class="panel-header">
+                            <h3>Terminal de Logs en Vivo</h3>
+                        </div>
+                        <div class="terminal" id="terminal-log">
+                            <div class="terminal-line system">[SISTEMA] Listo. Selecciona una familia e inicia tareas.</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Wikipedia Article Section -->
+                <section class="wikipedia-panel panel" style="margin-top: 24px;">
+                    <div class="panel-header flex-row" style="justify-content: space-between; align-items: center; display: flex; width: 100%;">
+                        <div style="display: flex; align-items: center; gap: 8px;">
+                            <i data-lucide="book-open" style="color: var(--accent); width: 18px; height: 18px;"></i>
+                            <h3 style="margin: 0;">Ficha Científica (Wikipedia)</h3>
+                        </div>
+                        <div class="wiki-controls" style="display: flex; gap: 8px; align-items: center;">
+                            <input type="text" id="wiki-query-input" placeholder="Buscar otro término..." style="background-color: var(--bg-input); border: 1px solid var(--border-color); border-radius: 6px; padding: 6px 10px; color: white; font-size: 12px; display: none; width: 150px;">
+                            <button id="btn-wiki-custom" class="btn btn-outline" style="padding: 8px;" title="Buscar término personalizado">
+                                <i data-lucide="search" class="small-icon"></i>
+                            </button>
+                            <button id="btn-wiki-download" class="btn btn-outline">
+                                <i data-lucide="download" class="small-icon"></i>
+                                <span>Descargar Artículo</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="wiki-body" id="wiki-body" style="height: 350px; padding: 0; overflow: hidden; background-color: #05080e; border-top: 1px solid var(--border-color);">
+                        <div class="empty-wiki" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; color: var(--text-muted); gap: 12px; font-style: italic; font-size: 13px;">
+                            <i data-lucide="book-open" style="width: 32px; height: 32px; stroke-width: 1.5;"></i>
+                            <span>No se ha descargado el artículo científico de Wikipedia para esta familia. Haz clic en "Descargar Artículo".</span>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Gallery Section -->
+                <section class="gallery-panel" style="margin-top: 24px;">
+                    <div class="panel-header flex-row" style="flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between;">
+                        <div style="display: flex; align-items: center; gap: 12px;">
+                            <h3 style="margin: 0;">Galería de Ilustraciones Descargadas</h3>
+                            <span class="gallery-count" id="gallery-count">0 imágenes</span>
+                        </div>
+                        
+                        <div class="gallery-filter-bar" style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+                            <input type="text" id="album-search" placeholder="Buscar género/especie..." style="background-color: var(--bg-input); border: 1px solid var(--border-color); border-radius: 6px; padding: 6px 12px; color: white; font-size: 12px; width: 160px;">
+                            
+                            <select id="album-genus-filter" style="background-color: var(--bg-input); border: 1px solid var(--border-color); border-radius: 6px; padding: 6px 10px; color: white; font-size: 12px;">
+                                <option value="ALL">Todos los Géneros</option>
+                            </select>
+
+                            <select id="album-type-filter" style="background-color: var(--bg-input); border: 1px solid var(--border-color); border-radius: 6px; padding: 6px 10px; color: white; font-size: 12px;">
+                                <option value="ALL">Todos los Archivos</option>
+                                <option value="IMAGE">Solo Imágenes</option>
+                                <option value="PDF">Solo PDFs</option>
+                            </select>
+                            
+                            <button id="album-fav-filter" class="btn btn-outline" style="padding: 6px 10px; font-size: 12px;" title="Ver solo Favoritos">
+                                <i data-lucide="star" class="small-icon"></i> <span>Favoritos</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="gallery-grid" id="gallery-grid" style="margin-top: 16px;">
+                        <div class="empty-gallery">No hay imágenes descargadas todavía para esta familia.</div>
+                    </div>
+                </section>
+            </div>
+
+            <!-- Global Stats View -->
+            <div class="global-stats-view hidden" id="global-stats-view">
+                <header class="dashboard-header">
+                    <div class="header-title-area">
+                        <h2>Estadísticas y Progreso Global</h2>
+                        <p class="path-display">
+                            <i data-lucide="bar-chart-2" class="small-icon"></i>
+                            <span>Resumen consolidado de las 395 familias botánicas</span>
+                        </p>
+                    </div>
+                </header>
+
+                <!-- Global Stats Cards -->
+                <section class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon-wrapper blue">
+                            <i data-lucide="folder-check"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Familias Escaneadas</span>
+                            <h3 id="global-scanned-count">0 / 395</h3>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon-wrapper green">
+                            <i data-lucide="image"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Fotos en Commons</span>
+                            <h3 id="global-commons-files">0</h3>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon-wrapper green">
+                            <i data-lucide="download"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Fotos Descargadas</span>
+                            <h3 id="global-local-files">0</h3>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Batch Scan Controls Panel -->
+                <div class="panel flex-col" style="margin-top: 24px; padding: 24px;">
+                    <div class="panel-header" style="background: transparent; border: 0; padding: 0 0 16px 0;">
+                        <h3>Escaneo Automático de Lotes (Batch Scan)</h3>
+                    </div>
+                    <div class="control-box" style="border: 0; padding: 0; display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+                        <div class="scan-settings">
+                            <label for="batch-scan-depth">Profundidad para el lote:</label>
+                            <select id="batch-scan-depth">
+                                <option value="0" selected>Nivel 0 (Solo categoría raíz - Rápido)</option>
+                                <option value="1">Nivel 1 (Géneros principales)</option>
+                                <option value="2">Nivel 2 (Especies)</option>
+                            </select>
+                            <button id="btn-batch-scan" class="btn btn-primary">
+                                <i data-lucide="play-circle"></i>
+                                <span>Iniciar Batch Scan (Pendientes)</span>
+                            </button>
+                            <button id="btn-batch-stop" class="btn btn-danger" disabled>
+                                <i data-lucide="stop-circle"></i>
+                                <span>Detener</span>
+                            </button>
+                        </div>
+                        <div class="batch-progress-info" id="batch-progress-info" style="font-size: 13px; color: var(--text-secondary); display: none;">
+                            <span>Procesando: <strong id="batch-current-family">Ninguna</strong> (<span id="batch-processed-count">0</span>/<span id="batch-total-count">0</span>)</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Global Table Panel -->
+                <div class="panel flex-col" style="margin-top: 24px; flex: 1;">
+                    <div class="panel-header">
+                        <h3>Comparativa y Progreso por Familia</h3>
+                        <div class="table-search-box">
+                            <input type="text" id="stats-table-search" placeholder="Buscar familia..." style="background-color: var(--bg-input); border: 1px solid var(--border-color); border-radius: 6px; padding: 6px 12px; color: white; font-size: 13px;">
+                        </div>
+                    </div>
+                    <div class="table-container" style="overflow-y: auto; flex: 1; padding: 12px 24px 24px;">
+                        <table class="stats-table" id="stats-table" style="width: 100%; border-collapse: collapse; text-align: left; font-size: 13px;">
+                            <thead>
+                                <tr style="border-bottom: 1px solid var(--border-color); color: var(--text-muted); height: 40px;">
+                                    <th>Familia Botánica</th>
+                                    <th>Imágenes Commons</th>
+                                    <th>Imágenes Local</th>
+                                    <th>Progreso Descarga</th>
+                                    <th>Último Escaneo</th>
+                                    <th>Acción</th>
+                                </tr>
+                            </thead>
+                            <tbody id="stats-table-body">
+                                <tr>
+                                    <td colspan="6" style="text-align: center; padding: 40px; color: var(--text-muted);">Cargando estadísticas globales...</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Image Modal Viewer -->
+    <div class="modal hidden" id="image-modal">
+        <div class="modal-overlay" onclick="closeModal()"></div>
+        <div class="modal-content-wrapper" style="max-width: 900px; width: 92%;">
+            <button class="modal-close" onclick="closeModal()">
+                <i data-lucide="x"></i>
+            </button>
+            <div class="modal-body">
+                <div class="modal-view-container" id="modal-view-container" style="position: relative; overflow: hidden; background: #05080e; border-radius: 8px; display: flex; align-items: center; justify-content: center; min-height: 400px; max-height: 70vh;">
+                    <img src="" id="modal-img" alt="Ilustración ampliada" style="max-width: 100%; max-height: 70vh; transition: transform 0.1s ease-out; transform-origin: center center; cursor: grab;">
+                    
+                    <div id="modal-pdf-container" class="hidden" style="width: 100%; height: 550px;">
+                        <iframe id="modal-pdf-iframe" src="" style="width: 100%; height: 100%; border: 0; background: #ffffff;"></iframe>
+                    </div>
+
+                    <!-- Floating Zoom Controls -->
+                    <div class="modal-zoom-controls" id="modal-zoom-controls" style="position: absolute; bottom: 16px; right: 16px; display: flex; gap: 6px; background: rgba(11, 15, 25, 0.85); backdrop-filter: blur(8px); padding: 6px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); z-index: 10;">
+                        <button class="btn btn-outline" id="btn-zoom-in" style="padding: 6px;" title="Acercar (+)">
+                            <i data-lucide="zoom-in" class="small-icon"></i>
+                        </button>
+                        <button class="btn btn-outline" id="btn-zoom-out" style="padding: 6px;" title="Alejar (-)">
+                            <i data-lucide="zoom-out" class="small-icon"></i>
+                        </button>
+                        <button class="btn btn-outline" id="btn-zoom-reset" style="padding: 6px;" title="Restablecer Zoom">
+                            <i data-lucide="rotate-ccw" class="small-icon"></i>
+                        </button>
+                        <span id="zoom-level-indicator" style="font-size: 11px; color: #a0aec0; display: flex; align-items: center; padding: 0 6px;">100%</span>
+                    </div>
+                </div>
+
+                <div class="modal-info" style="margin-top: 16px;">
+                    <h4 id="modal-title" style="margin: 0 0 10px 0; font-size: 16px; color: white;">Nombre archivo</h4>
+                    
+                    <!-- AI Badges Box -->
+                    <div class="modal-ai-box hidden" id="modal-ai-box" style="margin-bottom: 12px; padding: 12px; background: rgba(139, 92, 246, 0.1); border: 1px solid rgba(139, 92, 246, 0.25); border-radius: 8px;">
+                        <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 6px; color: #a78bfa; font-weight: 600; font-size: 12px;">
+                            <i data-lucide="sparkles" class="small-icon"></i>
+                            <span>Análisis Inteligente Gemini IA</span>
+                        </div>
+                        <div id="modal-ai-content" style="font-size: 13px; color: #e2e8f0;"></div>
+                    </div>
+
+                    <div class="modal-actions-row" style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+                        <a href="#" id="modal-link-commons" target="_blank" class="btn btn-outline">
+                            <i data-lucide="external-link" class="small-icon"></i> Ver en Commons
+                        </a>
+                        <a href="#" id="modal-link-maxres" target="_blank" class="btn btn-primary">
+                            <i data-lucide="maximize-2" class="small-icon"></i> Máxima Resolución
+                        </a>
+                        <button id="btn-modal-ai-classify" class="btn btn-accent" style="background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; border: 0;">
+                            <i data-lucide="sparkles" class="small-icon"></i> Categorizar con IA
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

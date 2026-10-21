@@ -1,0 +1,54 @@
+{
+  "taxon": {
+    "accepted": "Dryopteris filix-mas",
+    "authorship": "(L.) Schott",
+    "rank": "species",
+    "genus": "Dryopteris",
+    "family": "Dryopteridaceae",
+    "gbif_id": 5275132,
+    "wikidata": "Q322994",
+    "common_es": [
+      "tectaria filix mas",
+      "polystichum filix mas var. crenatum",
+      "nephrodium filix mas var. genuinum",
+      "falguera",
+      "polystichum filix mas var. deorsolobatum",
+      "nephrodium filix mas var. crenatum",
+      "dentabrón",
+      "falaguera",
+      "polystichum filix mas var abbreviatum",
+      "polystichum filix mas",
+      "dentabron"
+    ],
+    "original_names": [
+      "Aspidium filix-mas"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "dryopteris-filix-mas-kohler-1887",
+      "pageid": 10951245,
+      "original_name": "Aspidium filix-mas",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Hermann Adolf Köhler (1834 - 1879)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler (index) http://caliban.mpipz.mpg.de/koehler/FARN.jpg (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aspidium_filix-mas_(K%C3%B6hler).jpg",
+      "file_title": "File:Aspidium filix-mas (Köhler).jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

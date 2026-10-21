@@ -1,0 +1,33 @@
+# build output
+dist/
+
+# catálogo: base de datos, caché de descargas y variantes generadas (las imágenes van a R2)
+var/
+__pycache__/
+
+# descargas del scraper antiguo y plantilla vacía con su propio git (se eliminan en la limpieza)
+Coleccion_Botanica/
+data/
+galactic-giant/
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/

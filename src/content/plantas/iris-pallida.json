@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Iris pallida",
+    "authorship": "Lam.",
+    "rank": "species",
+    "genus": "Iris",
+    "family": "Iridaceae",
+    "gbif_id": 5298086,
+    "wikidata": "Q161347",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "iris-pallida-kohler-1890",
+      "pageid": 42767442,
+      "original_name": "Iris pallida",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "92",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232775026",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_92)_(8232775026).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 92) (8232775026).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303116"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

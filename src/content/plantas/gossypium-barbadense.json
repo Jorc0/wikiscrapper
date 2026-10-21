@@ -1,0 +1,50 @@
+{
+  "taxon": {
+    "accepted": "Gossypium barbadense",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Gossypium",
+    "family": "Malvaceae",
+    "gbif_id": 3152666,
+    "wikidata": "Q311515",
+    "common_es": [
+      "algodón",
+      "algodón Pima",
+      "algodón Tangüis",
+      "algodon Pima",
+      "algodón de fibra larga",
+      "algodón país",
+      "algodón criollo"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "gossypium-barbadense-kohler-1890",
+      "pageid": 42766844,
+      "original_name": "Gossypium barbadense",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "158",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232807392",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_158)_(8232807392).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 158) (8232807392).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303254"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

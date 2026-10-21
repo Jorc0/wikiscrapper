@@ -1,0 +1,49 @@
+{
+  "taxon": {
+    "accepted": "Illicium anisatum",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Illicium",
+    "family": "Schisandraceae",
+    "gbif_id": 7314073,
+    "wikidata": "Q27019",
+    "common_es": [
+      "anís estrellado del Japón",
+      "anis estrellado del Japón",
+      "anis estrellado del Japon",
+      "anís estrellado del Japon",
+      "badiana del Japon",
+      "badiana del Japón"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "illicium-anisatum-kohler-1890",
+      "pageid": 42767080,
+      "original_name": "Illicium anisatum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "117",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8231725093",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_117)_(8231725093).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 117) (8231725093).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303170"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "taxon": {
+    "accepted": "Papaver somniferum",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Papaver",
+    "family": "Papaveraceae",
+    "gbif_id": 2888439,
+    "wikidata": "Q131584",
+    "common_es": [
+      "adormidera",
+      "amapola de opio",
+      "apio dormidera",
+      "hierba dormidera",
+      "hierba cascales",
+      "papoya",
+      "ababolones",
+      "adormidera blanca",
+      "adormilera",
+      "amapola de adorno"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "papaver-somniferum-kohler-1887",
+      "pageid": 44485176,
+      "original_name": "Papaver somniferum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "37",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303636",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_37)_BHL303636.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 37) BHL303636.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_37)_(6972241046).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

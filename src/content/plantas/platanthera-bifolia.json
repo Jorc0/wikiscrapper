@@ -1,0 +1,52 @@
+{
+  "taxon": {
+    "accepted": "Platanthera bifolia",
+    "authorship": "(L.) Rich.",
+    "rank": "species",
+    "genus": "Platanthera",
+    "family": "Orchidaceae",
+    "gbif_id": 9213153,
+    "wikidata": "Q157433",
+    "common_es": [
+      "satirión blanco de dos hojas",
+      "satirión trifolio",
+      "satirión oficinal",
+      "testículo de perro",
+      "satirion blanco de dos hojas",
+      "satirión blanco",
+      "yerba de dos hojas",
+      "satirión officinal",
+      "testiculo de perro"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "platanthera-bifolia-kohler-1887",
+      "pageid": 44485915,
+      "original_name": "Platanthera bifolia",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "61",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303688",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_61_a)_BHL303688.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 61 a) BHL303688.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303686"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

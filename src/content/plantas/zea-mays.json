@@ -1,0 +1,48 @@
+{
+  "taxon": {
+    "accepted": "Zea mays",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Zea",
+    "family": "Poaceae",
+    "gbif_id": 5290052,
+    "wikidata": "Q11575",
+    "common_es": [
+      "coronta o Panocha",
+      "elote o Choclo",
+      "maiz",
+      "olote",
+      "maíz",
+      "choclo",
+      "Z. mays"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "zea-mays-kohler-1883",
+      "pageid": 146232982,
+      "original_name": "Zea mays",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walter Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "78",
+      "year": 1883,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte, Vol. 3, Plate 78",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_-_Vol._3_-_Plate_78.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte - Vol. 3 - Plate 78.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "taxon": {
+    "accepted": "Petroselinum crispum",
+    "authorship": "(Mill.) Fuss",
+    "rank": "species",
+    "genus": "Petroselinum",
+    "family": "Apiaceae",
+    "gbif_id": 7828157,
+    "wikidata": "Q25284",
+    "common_es": [
+      "perejil",
+      "ligustico peregrino",
+      "apio de piedras",
+      "perejil de hoja crespada",
+      "perexil",
+      "perejil rizo",
+      "prexil",
+      "perejil en rama",
+      "petroselino",
+      "peregil",
+      "prejilo"
+    ],
+    "original_names": [
+      "Petroselinum sativum"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "petroselinum-crispum-kohler-bhl-1898",
+      "pageid": -302478,
+      "original_name": "Petroselinum sativum",
+      "taxon_note": "nombre ambiguo; se eligió Petroselinum sativum L. (Linneo) → Petroselinum crispum",
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "24",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302478",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 24 [BHL 302478]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

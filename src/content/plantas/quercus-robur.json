@@ -1,0 +1,45 @@
+{
+  "taxon": {
+    "accepted": "Quercus robur",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Quercus",
+    "family": "Fagaceae",
+    "gbif_id": 2878688,
+    "wikidata": "Q165145",
+    "common_es": [
+      "roble común",
+      "roble carballo",
+      "cajiga",
+      "roble fresnal"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "quercus-robur-kohler-1887",
+      "pageid": 44485035,
+      "original_name": "Quercus robur",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "30",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303622",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_30)_BHL303622.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 30) BHL303622.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

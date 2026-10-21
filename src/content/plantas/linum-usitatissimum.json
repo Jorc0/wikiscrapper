@@ -1,0 +1,45 @@
+{
+  "taxon": {
+    "accepted": "Linum usitatissimum",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Linum",
+    "family": "Linaceae",
+    "gbif_id": 2873861,
+    "wikidata": "Q45108",
+    "common_es": [
+      "lino"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "linum-usitatissimum-kohler-1887",
+      "pageid": 44484717,
+      "original_name": "Linum usitatissimum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "16",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303594",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_16)_BHL303594.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 16) BHL303594.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303594",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_16)_(6972234206).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

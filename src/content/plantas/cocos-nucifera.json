@@ -1,0 +1,70 @@
+{
+  "taxon": {
+    "accepted": "Cocos nucifera",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Cocos",
+    "family": "Arecaceae",
+    "gbif_id": 2735117,
+    "wikidata": "Q13187",
+    "common_es": [
+      "cocotero"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "cocos-nucifera-kohler-1887",
+      "pageid": 35249562,
+      "original_name": "Cocos nucifera",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler (index) http://caliban.mpiz-koeln.mpg.de/koehler/COCOS1.jpg (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cocos_nucifera_(K%C3%B6hler)_1.jpg",
+      "file_title": "File:Cocos nucifera (Köhler) 1.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "cocos-nucifera-kohler-1897",
+      "pageid": 255528,
+      "original_name": "Cocos nucifera",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "187",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg",
+      "file_title": "File:Cocos nucifera - Köhler–s Medizinal-Pflanzen-187.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/302582",
+        "https://commons.wikimedia.org/wiki/File:Cocos_nucifera_(K%C3%B6hler)_2.jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

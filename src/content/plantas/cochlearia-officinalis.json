@@ -1,0 +1,48 @@
+{
+  "taxon": {
+    "accepted": "Cochlearia officinalis",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Cochlearia",
+    "family": "Brassicaceae",
+    "gbif_id": 5373276,
+    "wikidata": "Q160191",
+    "common_es": [
+      "coclearia",
+      "hierba de Cucharas",
+      "yerba de cucharas",
+      "coclèaria",
+      "cuchareta"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "cochlearia-officinalis-kohler-1887",
+      "pageid": 44485767,
+      "original_name": "Cochlearia officinalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "57",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303676",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_57)_BHL303676.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 57) BHL303676.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_57)_(6972247832).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

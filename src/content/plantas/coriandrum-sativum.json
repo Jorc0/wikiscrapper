@@ -1,0 +1,61 @@
+{
+  "taxon": {
+    "accepted": "Coriandrum sativum",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Coriandrum",
+    "family": "Apiaceae",
+    "gbif_id": 3034871,
+    "wikidata": "Q41611",
+    "common_es": [
+      "jilantro",
+      "xendro",
+      "ciliandro",
+      "celandria",
+      "anisillo",
+      "salandria",
+      "coendro",
+      "coantrillo",
+      "coentro das hortas",
+      "cuantrillo",
+      "coentro",
+      "tantsanacua",
+      "ceandro",
+      "cilantro",
+      "coriandro",
+      "cilandro",
+      "colentro",
+      "coriandreae"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "coriandrum-sativum-kohler-1890",
+      "pageid": 42766921,
+      "original_name": "Coriandrum sativum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "145",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232800542",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_145)_(8232800542).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 145) (8232800542).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303226"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

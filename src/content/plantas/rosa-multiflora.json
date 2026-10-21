@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Rosa multiflora",
+    "authorship": "Thunb.",
+    "rank": "species",
+    "genus": "Rosa",
+    "family": "Rosaceae",
+    "gbif_id": 3003244,
+    "wikidata": "Q133617",
+    "common_es": [
+      "rosa bebé"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "rosa-multiflora-redoute-roses-1817",
+      "pageid": 14953380,
+      "original_name": "Rosa multiflora",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Pierre-Joseph Redouté",
+      "work": "Les Roses",
+      "source": "redoute_roses",
+      "origin": "commons",
+      "plate": null,
+      "year": 1817,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://artemisframing.com.au/gallery/redoute-roses/",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rosa_multiflora_carnea_001.JPG",
+      "file_title": "File:Rosa multiflora carnea 001.JPG",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

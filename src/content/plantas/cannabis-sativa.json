@@ -1,0 +1,80 @@
+{
+  "taxon": {
+    "accepted": "Cannabis sativa",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Cannabis",
+    "family": "Cannabaceae",
+    "gbif_id": 5361880,
+    "wikidata": "Q26726",
+    "common_es": [
+      "mota",
+      "mariguana",
+      "canamón",
+      "quif",
+      "maryjuana",
+      "canamon",
+      "cañamon",
+      "gañja",
+      "cánnabis"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "cannabis-sativa-kohler-1887",
+      "pageid": 1739269,
+      "original_name": "Cannabis sativa",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "From Franz Eugen Köhler's Medizinal-Pflantzen . Published and copyrighted by Gera-Untermhaus, FE Köhler in 1887 (1883–1914). Obtained from http://caliban.mpiz-koeln.mpg.de/~stueber/koehler/ . Originally uploaded to wikipedia by w:User:Chmod007 on 19:57, 14 November 2004. An enhanced version was uploaded to wikipedia by w:User:DarkEvil on 17:39, 14 December 2006",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cannabis_sativa_Koehler_drawing.jpg",
+      "file_title": "File:Cannabis sativa Koehler drawing.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:Cannabis_sativa_(K%C3%B6hler).jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "cannabis-sativa-kohler-1887-13",
+      "pageid": 44484631,
+      "original_name": "Cannabis sativa",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "13",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303586",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_13)_BHL303586.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 13) BHL303586.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303586",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_13)_(7118311651).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

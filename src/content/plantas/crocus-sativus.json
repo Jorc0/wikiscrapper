@@ -1,0 +1,44 @@
+{
+  "taxon": {
+    "accepted": "Crocus sativus",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Crocus",
+    "family": "Iridaceae",
+    "gbif_id": 2747430,
+    "wikidata": "Q15041677",
+    "common_es": [
+      "azafrán"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "crocus-sativus-kohler-1890",
+      "pageid": 42766818,
+      "original_name": "Crocus sativus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "164",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8231748099",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_164)_(8231748099).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 164) (8231748099).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303266"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "taxon": {
+    "accepted": "Hydropuntia edulis",
+    "authorship": "(S.G.Gmelin) Gurgel & Fredericq, 2004",
+    "rank": "species",
+    "genus": "Hydropuntia",
+    "family": "Gracilariaceae",
+    "gbif_id": 2665786,
+    "wikidata": "Q104384475",
+    "common_es": [],
+    "original_names": [
+      "Gracilaria lichenoides"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "hydropuntia-edulis-kohler-bhl-1898",
+      "pageid": -681904,
+      "original_name": "Gracilaria lichenoides",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "3",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/681904",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.4 (1898), Tafel 3 [BHL 681904]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#d2ccb4",
+          "share": 0.062
+        },
+        {
+          "hex": "#9d8f6a",
+          "share": 0.046
+        }
+      ],
+      "images": {
+        "full": "/laminas/bhl-681904-1600w.webp",
+        "medium": "/laminas/bhl-681904-800w.webp",
+        "thumb": "/laminas/bhl-681904-400w.webp",
+        "width": 1600,
+        "height": 2295,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

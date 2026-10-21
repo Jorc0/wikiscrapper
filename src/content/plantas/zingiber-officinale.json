@@ -1,0 +1,79 @@
+{
+  "taxon": {
+    "accepted": "Zingiber officinale",
+    "authorship": "Roscoe",
+    "rank": "species",
+    "genus": "Zingiber",
+    "family": "Zingiberaceae",
+    "gbif_id": 2757280,
+    "wikidata": "Q35625",
+    "common_es": [
+      "kion",
+      "gengibre",
+      "jengibre",
+      "kión",
+      "cañacoros",
+      "ajengibre",
+      "canacoros"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "zingiber-officinale-kohler-1883",
+      "pageid": 255480,
+      "original_name": "Zingiber officinale",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "146",
+      "year": 1883,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "The Internet Archive Köhlers Medizinal-Pflanzen in naturgetreuen Abbildungen und kurz erläuterndem Texte",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Zingiber_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-146.jpg",
+      "file_title": "File:Zingiber officinale - Köhler–s Medizinal-Pflanzen-146.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303284",
+        "https://commons.wikimedia.org/wiki/File:Koeh-146-original.jpg",
+        "https://commons.wikimedia.org/wiki/File:Koeh-146-original.png"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "zingiber-officinale-kohler-1883-5111564",
+      "pageid": 5111564,
+      "original_name": "Zingiber officinale",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1883,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "The Internet Archive List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Koeh-146-no_text.jpg",
+      "file_title": "File:Koeh-146-no text.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:Illustration_of_Zingiber_officinale.png"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

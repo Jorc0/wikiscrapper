@@ -1,0 +1,68 @@
+{
+  "taxon": {
+    "accepted": "Podophyllum peltatum",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Podophyllum",
+    "family": "Berberidaceae",
+    "gbif_id": 3033839,
+    "wikidata": "Q1572090",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "podophyllum-peltatum-kohler-1887",
+      "pageid": 255604,
+      "original_name": "Podophyllum peltatum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "246",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images The Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Podophyllum_peltatum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-246.jpg",
+      "file_title": "File:Podophyllum peltatum - Köhler–s Medizinal-Pflanzen-246.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:Podophyllum_peltatum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-246_0383-scan.png",
+        "https://commons.wikimedia.org/wiki/File:Podophyllum_peltatum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-246_0383-caps.jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "podophyllum-peltatum-kohler-1887-73",
+      "pageid": 44486199,
+      "original_name": "Podophyllum peltatum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "73",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303710",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_73)_BHL303710.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 73) BHL303710.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

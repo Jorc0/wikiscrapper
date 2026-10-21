@@ -1,0 +1,73 @@
+{
+  "taxon": {
+    "accepted": "Acorus calamus",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Acorus",
+    "family": "Acoraceae",
+    "gbif_id": 2873769,
+    "wikidata": "Q158008",
+    "common_es": [
+      "ácoro",
+      "cálamo aromático",
+      "calamo aromático",
+      "acoro"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "acorus-calamus-kohler-1877",
+      "pageid": 124294333,
+      "original_name": "Acorus calamus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "17",
+      "year": 1877,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303596",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%E2%80%99s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_17)_BHL303596_-_clean.jpg",
+      "file_title": "File:Köhler’s Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 17) BHL303596 - clean.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_17)_(6972234566).jpg",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_17)_BHL303596.jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "acorus-calamus-kohler-1887",
+      "pageid": 10943467,
+      "original_name": "Acorus calamus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Hermann Adolf Köhler (1834 - 1879)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler1 (index) http://caliban.mpiz-koeln.mpg.de/koehler1/high/DSC_2606.jpg (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Acorus_calamus_(K%C3%B6hler).jpg",
+      "file_title": "File:Acorus calamus (Köhler).jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

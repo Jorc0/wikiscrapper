@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Anamirta cocculus",
+    "authorship": "(L.) Wight & Arn.",
+    "rank": "species",
+    "genus": "Anamirta",
+    "family": "Menispermaceae",
+    "gbif_id": 3829613,
+    "wikidata": "Q2007832",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "anamirta-cocculus-kohler-1890",
+      "pageid": 42766795,
+      "original_name": "Anamirta cocculus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "168",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232812320",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_168)_(8232812320).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 168) (8232812320).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303274"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

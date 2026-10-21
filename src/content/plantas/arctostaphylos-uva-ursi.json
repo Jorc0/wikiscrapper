@@ -1,0 +1,59 @@
+{
+  "taxon": {
+    "accepted": "Arctostaphylos uva-ursi",
+    "authorship": "(L.) Spreng.",
+    "rank": "species",
+    "genus": "Arctostaphylos",
+    "family": "Ericaceae",
+    "gbif_id": 2882580,
+    "wikidata": "Q208032",
+    "common_es": [
+      "muxes",
+      "mearrera",
+      "engarrolla",
+      "abugués",
+      "revellones",
+      "manzanicas de pastor",
+      "gaúlla",
+      "agaúva",
+      "gayumina",
+      "galluva",
+      "zumaque blanco espanol",
+      "gallua",
+      "algayua",
+      "bujarola",
+      "gaoya",
+      "abugues",
+      "gaulla",
+      "agauva"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "arctostaphylos-uva-ursi-kohler-bhl-1890",
+      "pageid": -303210,
+      "original_name": "Arctostaphylos uva-ursi",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "137",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303210",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 137 [BHL 303210]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "taxon": {
+    "accepted": "Piper aduncum",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Piper",
+    "family": "Piperaceae",
+    "gbif_id": 3086337,
+    "wikidata": "Q3281616",
+    "common_es": [
+      "higuillo de hoja menuda",
+      "achotlín",
+      "achotlin",
+      "higuillo"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "piper-aduncum-kohler-1890",
+      "pageid": 42766951,
+      "original_name": "Piper aduncum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "138",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8231735181",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_138)_(8231735181).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 138) (8231735181).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303212"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

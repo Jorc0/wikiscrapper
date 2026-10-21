@@ -1,0 +1,67 @@
+{
+  "taxon": {
+    "accepted": "Cola acuminata",
+    "authorship": "(P.Beauv.) Schott & Endl.",
+    "rank": "species",
+    "genus": "Cola",
+    "family": "Malvaceae",
+    "gbif_id": 5406685,
+    "wikidata": "Q522881",
+    "common_es": [],
+    "original_names": [
+      "Kola nut"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "cola-acuminata-kohler-1887",
+      "pageid": 11160594,
+      "original_name": "Kola nut",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "…trialsanderrors",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Kola nut (cola acuminata) from Köhler's medicinal plants, 1887",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_%E2%80%A6trialsanderrors_-_Kola_nut_(cola_acuminata)_from_K%C3%B6hler%27s_medicinal_plants,_1887.jpg",
+      "file_title": "File:Flickr - …trialsanderrors - Kola nut (cola acuminata) from Köhler's medicinal plants, 1887.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "cola-acuminata-kohler-bhl-1898",
+      "pageid": -302470,
+      "original_name": "Cola acuminata",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "20",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302470",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 20 [BHL 302470]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

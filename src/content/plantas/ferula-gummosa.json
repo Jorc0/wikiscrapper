@@ -1,0 +1,67 @@
+{
+  "taxon": {
+    "accepted": "Ferula gummosa",
+    "authorship": "Boiss.",
+    "rank": "species",
+    "genus": "Ferula",
+    "family": "Apiaceae",
+    "gbif_id": 3034683,
+    "wikidata": "Q4483170",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "ferula-gummosa-kohler-1887",
+      "pageid": 66030586,
+      "original_name": "Ferula gummosa",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinnalpflanzen No 153",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler_Ferula_gummosa.jpg",
+      "file_title": "File:Köhler Ferula gummosa.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "ferula-gummosa-kohler-1890",
+      "pageid": 42766886,
+      "original_name": "Ferula gummosa",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "153",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232804618",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_153)_(8232804618).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 153) (8232804618).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303242"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "taxon": {
+    "accepted": "Curcuma longa",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Curcuma",
+    "family": "Zingiberaceae",
+    "gbif_id": 2757624,
+    "wikidata": "Q42562",
+    "common_es": [
+      "cúrcuma",
+      "cúrcuma longa",
+      "E100ii",
+      "turmerico",
+      "turmérico",
+      "jengibrillo",
+      "palillo cholón",
+      "azafran cimarrón",
+      "azafrán cimarrón",
+      "azafrán cimarron",
+      "guisador",
+      "curcuma"
+    ],
+    "original_names": [
+      "Curcuma domestica"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "curcuma-longa-kohler-bhl-1890",
+      "pageid": -303296,
+      "original_name": "Curcuma domestica",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "178",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303296",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 178 [BHL 303296]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

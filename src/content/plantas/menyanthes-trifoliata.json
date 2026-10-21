@@ -1,0 +1,72 @@
+{
+  "taxon": {
+    "accepted": "Menyanthes trifoliata",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Menyanthes",
+    "family": "Menyanthaceae",
+    "gbif_id": 5341511,
+    "wikidata": "Q156153",
+    "common_es": [
+      "menianto"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "menyanthes-trifoliata-kohler-1897",
+      "pageid": 255580,
+      "original_name": "Menyanthes trifoliata",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "225",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Menyanthes_trifoliata_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-225.jpg",
+      "file_title": "File:Menyanthes trifoliata - Köhler–s Medizinal-Pflanzen-225.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:Koeh_225.jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "menyanthes-trifoliata-kohler-1897-67465848",
+      "pageid": 67465848,
+      "original_name": "Menyanthes trifoliata",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images The Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Koeh_225.png",
+      "file_title": "File:Koeh 225.png",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303108",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_89)_(8231710333).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

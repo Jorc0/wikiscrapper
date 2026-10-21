@@ -1,0 +1,75 @@
+{
+  "taxon": {
+    "accepted": "Garcinia morella",
+    "authorship": "(Gaertn.) Desr.",
+    "rank": "species",
+    "genus": "Garcinia",
+    "family": "Clusiaceae",
+    "gbif_id": 7624454,
+    "wikidata": "Q2043769",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "garcinia-morella-kohler-1897",
+      "pageid": 255335,
+      "original_name": "Garcinia morella",
+      "taxon_note": null,
+      "multi_species": true,
+      "other_taxa": [
+        "Garcinia morella"
+      ],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "063",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Garcinia_morella_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-063.jpg",
+      "file_title": "File:Garcinia morella - Köhler–s Medizinal-Pflanzen-063.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303298",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_179)_(8231755755).jpg"
+      ],
+      "palette": [
+        {
+          "hex": "#4c561a",
+          "share": 0.036
+        },
+        {
+          "hex": "#dfe3c6",
+          "share": 0.036
+        },
+        {
+          "hex": "#9ba75e",
+          "share": 0.035
+        },
+        {
+          "hex": "#878c3c",
+          "share": 0.031
+        },
+        {
+          "hex": "#5b7e33",
+          "share": 0.031
+        }
+      ],
+      "images": {
+        "full": "/laminas/255335-1600w.webp",
+        "medium": "/laminas/255335-800w.webp",
+        "thumb": "/laminas/255335-400w.webp",
+        "width": 1600,
+        "height": 2249,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

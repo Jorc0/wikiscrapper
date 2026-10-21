@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Dipterocarpus retusus",
+    "authorship": "Blume",
+    "rank": "species",
+    "genus": "Dipterocarpus",
+    "family": "Dipterocarpaceae",
+    "gbif_id": 7299010,
+    "wikidata": "Q3006795",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "dipterocarpus-retusus-kohler-1890",
+      "pageid": 42766640,
+      "original_name": "Dipterocarpus retusus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "191",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232824174",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_191)_(8232824174).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 191) (8232824174).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303322"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

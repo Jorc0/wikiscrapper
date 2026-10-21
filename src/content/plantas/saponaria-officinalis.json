@@ -1,0 +1,92 @@
+{
+  "taxon": {
+    "accepted": "Saponaria officinalis",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Saponaria",
+    "family": "Caryophyllaceae",
+    "gbif_id": 3085360,
+    "wikidata": "Q156841",
+    "common_es": [
+      "albata",
+      "flor de jabón",
+      "flor del jabón",
+      "herbada",
+      "hierba de bataneros",
+      "hierba de jabón",
+      "hierba de jaboneros",
+      "hierba de los bataneros",
+      "hierba de los jabones",
+      "hierba jabonera",
+      "hierba lanaria",
+      "jabonera común",
+      "jabonera oficinal",
+      "jabonera",
+      "palo de jabón",
+      "siabuneira",
+      "xabonera",
+      "yerba de bataneros",
+      "yerba jabonera",
+      "yerba lanaria",
+      "yerba xabonera",
+      "flor de jabon",
+      "hierba de jabon",
+      "flor del jabon",
+      "palo de jabon"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "saponaria-officinalis-kohler-bhl-1898",
+      "pageid": -681917,
+      "original_name": "Saponaria officinalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "37",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/681917",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.4 (1898), Tafel 37 [BHL 681917]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#61652e",
+          "share": 0.059
+        },
+        {
+          "hex": "#868849",
+          "share": 0.057
+        },
+        {
+          "hex": "#d0b79f",
+          "share": 0.054
+        },
+        {
+          "hex": "#ada974",
+          "share": 0.051
+        }
+      ],
+      "images": {
+        "full": "/laminas/bhl-681917-1600w.webp",
+        "medium": "/laminas/bhl-681917-800w.webp",
+        "thumb": "/laminas/bhl-681917-400w.webp",
+        "width": 1600,
+        "height": 2357,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

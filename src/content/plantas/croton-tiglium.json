@@ -1,0 +1,45 @@
+{
+  "taxon": {
+    "accepted": "Croton tiglium",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Croton",
+    "family": "Euphorbiaceae",
+    "gbif_id": 3057656,
+    "wikidata": "Q2089847",
+    "common_es": [
+      "crotoncillo"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "croton-tiglium-kohler-1887",
+      "pageid": 64139526,
+      "original_name": "Croton tiglium",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinalpflanzen 1887",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Croton_tiglium_K%C3%B6hler.jpg",
+      "file_title": "File:Croton tiglium Köhler.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303304",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_182)_(8232819416).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

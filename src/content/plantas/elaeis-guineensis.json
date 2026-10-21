@@ -1,0 +1,70 @@
+{
+  "taxon": {
+    "accepted": "Elaeis guineensis",
+    "authorship": "Jacq.",
+    "rank": "species",
+    "genus": "Elaeis",
+    "family": "Arecaceae",
+    "gbif_id": 2731882,
+    "wikidata": "Q165403",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "elaeis-guineensis-kohler-1897",
+      "pageid": 255327,
+      "original_name": "Elaeis guineensis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "056",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Elaeis_guineensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-056.jpg",
+      "file_title": "File:Elaeis guineensis - Köhler–s Medizinal-Pflanzen-056.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#547034",
+          "share": 0.093
+        },
+        {
+          "hex": "#bd9826",
+          "share": 0.086
+        },
+        {
+          "hex": "#dbdbba",
+          "share": 0.069
+        },
+        {
+          "hex": "#6f8245",
+          "share": 0.064
+        },
+        {
+          "hex": "#829667",
+          "share": 0.062
+        }
+      ],
+      "images": {
+        "full": "/laminas/255327-1600w.webp",
+        "medium": "/laminas/255327-800w.webp",
+        "thumb": "/laminas/255327-400w.webp",
+        "width": 1600,
+        "height": 2281,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

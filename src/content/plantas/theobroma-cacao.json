@@ -1,0 +1,103 @@
+{
+  "taxon": {
+    "accepted": "Theobroma cacao",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Theobroma",
+    "family": "Malvaceae",
+    "gbif_id": 3152205,
+    "wikidata": "Q42385",
+    "common_es": [
+      "arbol de cacao",
+      "especie de cacao",
+      "la comida de los dioses",
+      "fuente de cacao"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "theobroma-cacao-kohler-1890",
+      "pageid": 42766850,
+      "original_name": "Theobroma cacao",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "157",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232806778",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_157_II)_(8232806778).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 157 II) (8232806778).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303252",
+        "https://www.biodiversitylibrary.org/page/303250"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "theobroma-cacao-kohler-1897",
+      "pageid": 255468,
+      "original_name": "Theobroma cacao",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "137",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images (first upload), http://caliban.mpiz-koeln.mpg.de/koehler2/high/DSC_3226.html (first resolution step-up)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Theobroma_cacao_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-137.jpg",
+      "file_title": "File:Theobroma cacao - Köhler–s Medizinal-Pflanzen-137.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#927012",
+          "share": 0.091
+        },
+        {
+          "hex": "#f7f8f0",
+          "share": 0.086
+        },
+        {
+          "hex": "#5a4715",
+          "share": 0.085
+        },
+        {
+          "hex": "#392f1a",
+          "share": 0.053
+        },
+        {
+          "hex": "#b5b78d",
+          "share": 0.048
+        }
+      ],
+      "images": {
+        "full": "/laminas/255468-1600w.webp",
+        "medium": "/laminas/255468-800w.webp",
+        "thumb": "/laminas/255468-400w.webp",
+        "width": 1600,
+        "height": 2310,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

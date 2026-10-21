@@ -1,0 +1,68 @@
+{
+  "taxon": {
+    "accepted": "Viola tricolor",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Viola",
+    "family": "Violaceae",
+    "gbif_id": 5331347,
+    "wikidata": "Q190326",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "viola-tricolor-kohler-1887",
+      "pageid": 255640,
+      "original_name": "Viola tricolor",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "280",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "The Internet Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Viola_tricolor_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-280.jpg",
+      "file_title": "File:Viola tricolor - Köhler–s Medizinal-Pflanzen-280.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:Viola_tricolor_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-280_0289-caps.jpg",
+        "https://commons.wikimedia.org/wiki/File:Viola_tricolor_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-280_0289.png"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "viola-tricolor-kohler-bhl-1887",
+      "pageid": -303616,
+      "original_name": "Viola tricolor",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "27",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303616",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.1 (1887), Plate 27 [BHL 303616]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

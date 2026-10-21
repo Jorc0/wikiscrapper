@@ -1,0 +1,53 @@
+{
+  "taxon": {
+    "accepted": "Levisticum officinale",
+    "authorship": "W.D.J.Koch",
+    "rank": "species",
+    "genus": "Levisticum",
+    "family": "Apiaceae",
+    "gbif_id": 5371772,
+    "wikidata": "Q27615",
+    "common_es": [
+      "angélica montana",
+      "levistico",
+      "levístico",
+      "apio silvestre de monte",
+      "esmirnio",
+      "levisticum officinale Koch",
+      "legustico",
+      "apio de montaña",
+      "ligustico",
+      "ligústico"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "levisticum-officinale-kohler-1890",
+      "pageid": 42767062,
+      "original_name": "Levisticum officinale",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "120",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8231726693",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_120)_(8231726693).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 120) (8231726693).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303176"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

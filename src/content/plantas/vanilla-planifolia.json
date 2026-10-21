@@ -1,0 +1,40 @@
+{
+  "taxon": {
+    "accepted": "Vanilla planifolia",
+    "authorship": "Andrews",
+    "rank": "species",
+    "genus": "Vanilla",
+    "family": "Orchidaceae",
+    "gbif_id": 2803398,
+    "wikidata": "Q7224923",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "vanilla-planifolia-kohler-bhl-1890",
+      "pageid": -303164,
+      "original_name": "Vanilla planifolia",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "114",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303164",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 114 [BHL 303164]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

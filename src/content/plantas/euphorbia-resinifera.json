@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Euphorbia resinifera",
+    "authorship": "O.Berg",
+    "rank": "species",
+    "genus": "Euphorbia",
+    "family": "Euphorbiaceae",
+    "gbif_id": 3068445,
+    "wikidata": "Q2658650",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "euphorbia-resinifera-kohler-1890",
+      "pageid": 42766838,
+      "original_name": "Euphorbia resinifera",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "159",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8231745319",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_159)_(8231745319).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 159) (8231745319).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303256"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

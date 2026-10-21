@@ -1,0 +1,48 @@
+{
+  "taxon": {
+    "accepted": "Prunus laurocerasus",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Prunus",
+    "family": "Rosaceae",
+    "gbif_id": 3021496,
+    "wikidata": "Q157508",
+    "common_es": [
+      "lauro-cerezo",
+      "laurel-cerezo",
+      "lauro-ceraso",
+      "laurela",
+      "lauroceraso"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "prunus-laurocerasus-kohler-1890",
+      "pageid": 42766928,
+      "original_name": "Prunus laurocerasus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "143",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232799824",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_143)_(8232799824).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 143) (8232799824).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303222"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Catalogo from '../../layouts/Catalogo.astro';
+
+export async function getStaticPaths() {
+  const plantas = await getCollection('plantas');
+  return plantas.map((planta) => ({ params: { id: planta.id }, props: { planta } }));
+}
+
+const { planta } = Astro.props as { planta: CollectionEntry<'plantas'> };
+const { taxon, illustrations } = planta.data;
+const avif = (url: string) => url.replace(/\.webp$/, '.avif');
+---
+
+<Catalogo title={taxon.accepted}>
+  <main>
+    <p><a href="/catalogo/">← Catálogo</a></p>
+    <h1><i>{taxon.accepted}</i> {taxon.authorship && <small>{taxon.authorship}</small>}</h1>
+    {taxon.common_es.length > 0 && <p class="common">{taxon.common_es.join(', ')}</p>}
+    <dl>
+      <dt>Familia</dt><dd>{taxon.family}</dd>
+      <dt>Género</dt><dd><i>{taxon.genus}</i></dd>
+      {taxon.original_names.length > 0 && (<><dt>Como aparece en las láminas</dt><dd><i>{taxon.original_names.join(', ')}</i></dd></>)}
+      <dt>Referencias</dt>
+      <dd>
+        <a href={`https://www.gbif.org/species/${taxon.gbif_id}`}>GBIF</a>
+        {taxon.wikidata && <> · <a href={`https://www.wikidata.org/wiki/${taxon.wikidata}`}>Wikidata</a></>}
+      </dd>
+    </dl>
+
+    {illustrations.map((ill) => (
+      <figure id={ill.id}>
+        {ill.images && (
+          <picture>
+            {ill.images.formats.includes('avif') && (
+              <source type="image/avif" srcset={`${avif(ill.images.medium)} 800w, ${avif(ill.images.full)} 1600w`} sizes="(min-width: 60rem) 50vw, 100vw" />
+            )}
+            <img
+              src={ill.images.medium}
+              srcset={`${ill.images.medium} 800w, ${ill.images.full} 1600w`}
+              sizes="(min-width: 60rem) 50vw, 100vw"
+              width={ill.images.width}
+              height={ill.images.height}
+              alt={`${ill.original_name ?? taxon.accepted}, ${ill.work}`}
+              loading="lazy"
+            />
+          </picture>
+        )}
+        <figcaption>
+          {ill.original_name && <i>{ill.original_name}</i>}
+          {ill.multi_species && <span> (lámina con varias especies: {ill.other_taxa.join(', ')})</span>}
+          <br />
+          {ill.artist && <>{ill.artist}, </>}
+          <cite>{ill.work}</cite>{ill.year && <> ({ill.year})</>}{ill.plate && <>, lámina {ill.plate}</>}.
+          {' '}
+          {ill.license_url ? <a href={ill.license_url}>{ill.license}</a> : ill.license}.
+          {' '}<a href={ill.source_url}>{ill.origin === 'bhl' ? 'Biodiversity Heritage Library' : 'Wikimedia Commons'}</a>
+          {ill.palette.length > 0 && (
+            <span class="palette">
+              {ill.palette.map((c) => <span style={`background:${c.hex}`} title={c.hex} />)}
+            </span>
+          )}
+        </figcaption>
+      </figure>
+    ))}
+  </main>
+</Catalogo>
+
+<style>
+  h1 small { font-size: 0.55em; color: var(--muted); font-weight: normal; }
+  .common { font-size: 1.15rem; color: var(--muted); margin-top: -0.5rem; }
+  dl { display: grid; grid-template-columns: max-content 1fr; gap: 0.25rem 1rem; }
+  dt { color: var(--muted); }
+  dd { margin: 0; }
+  figure { margin: 3rem 0; max-width: 44rem; }
+  figcaption { margin-top: 0.75rem; font-size: 0.92rem; }
+  .palette { display: inline-flex; gap: 2px; margin-left: 0.5rem; vertical-align: middle; }
+  .palette span { width: 1rem; height: 1rem; border-radius: 2px; }
+</style>

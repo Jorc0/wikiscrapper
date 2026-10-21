@@ -1,0 +1,49 @@
+{
+  "taxon": {
+    "accepted": "Nigella damascena",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Nigella",
+    "family": "Ranunculaceae",
+    "gbif_id": 5371702,
+    "wikidata": "Q158338",
+    "common_es": [
+      "aranuelas",
+      "ajenuz de jardín",
+      "axenuz de jardín que hace la simiente muy negra",
+      "ajeluz",
+      "neguilla que hace la simiente muy negra",
+      "farolillo",
+      "ajenuz de jardin",
+      "axenuz de jardin que hace la simiente muy negra"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "nigella-damascena-kohler-bhl-1898",
+      "pageid": -302562,
+      "original_name": "Nigella damascena",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "66",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302562",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 66 [BHL 302562]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

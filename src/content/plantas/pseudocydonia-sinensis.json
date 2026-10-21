@@ -1,0 +1,48 @@
+{
+  "taxon": {
+    "accepted": "Pseudocydonia sinensis",
+    "authorship": "(Dum.Cours.) C.K.Schneid.",
+    "rank": "species",
+    "genus": "Pseudocydonia",
+    "family": "Rosaceae",
+    "gbif_id": 3000699,
+    "wikidata": "Q1334892",
+    "common_es": [
+      "pseudocydonia",
+      "membrillo del Japón",
+      "membrillo del Japon"
+    ],
+    "original_names": [
+      "Chaenomeles sinensis"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "pseudocydonia-sinensis-kohler-1887",
+      "pageid": 44485117,
+      "original_name": "Chaenomeles sinensis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "34",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303630",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_34)_BHL303630.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 34) BHL303630.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_34)_(7118318841).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

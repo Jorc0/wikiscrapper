@@ -1,0 +1,76 @@
+{
+  "taxon": {
+    "accepted": "Inula helenium",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Inula",
+    "family": "Asteraceae",
+    "gbif_id": 3148340,
+    "wikidata": "Q697416",
+    "common_es": [
+      "helinio",
+      "emulacampana",
+      "enula",
+      "ojo del caballo",
+      "helenio",
+      "ínula",
+      "énula campana",
+      "inula"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "inula-helenium-kohler-1887",
+      "pageid": 88739082,
+      "original_name": "Inula helenium",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinalpflanzen.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler_Inula_1887.jpg",
+      "file_title": "File:Köhler Inula 1887.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "inula-helenium-kohler-1890",
+      "pageid": 42767459,
+      "original_name": "Inula helenium",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "90",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232773496",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_90)_(8232773496).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 90) (8232773496).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303110"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

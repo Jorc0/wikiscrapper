@@ -1,0 +1,45 @@
+{
+  "taxon": {
+    "accepted": "Lobelia inflata",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Lobelia",
+    "family": "Campanulaceae",
+    "gbif_id": 5408737,
+    "wikidata": "Q1661351",
+    "common_es": [
+      "L. inflata",
+      "L inflata"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "lobelia-inflata-kohler-1890",
+      "pageid": 42767329,
+      "original_name": "Lobelia inflata",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "108",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232782800",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_108)_(8232782800).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 108) (8232782800).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303150"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

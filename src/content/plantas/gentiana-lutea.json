@@ -1,0 +1,147 @@
+{
+  "taxon": {
+    "accepted": "Gentiana lutea",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Gentiana",
+    "family": "Gentianaceae",
+    "gbif_id": 3170040,
+    "wikidata": "Q158572",
+    "common_es": [
+      "agenciana",
+      "cenjana",
+      "chanzaina",
+      "funciana",
+      "genciana amarilla",
+      "genciana mayor",
+      "genciana rastrera",
+      "genciana",
+      "gengiba de Jarava",
+      "gengiba",
+      "gensiana",
+      "gonciana",
+      "gonzana",
+      "janciana",
+      "janzaina",
+      "junciana",
+      "junzana",
+      "quina de Europa",
+      "sanzaina",
+      "sianzaina",
+      "unciana",
+      "xanzaina",
+      "xaranzana",
+      "xonzana"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "gentiana-lutea-kohler-1887",
+      "pageid": 5207258,
+      "original_name": "Gentiana lutea",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, in Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinal-Pflanzen in naturgetreuen Abbildungen und kurz erläuterndem Texte",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Koeh-066-original.jpg",
+      "file_title": "File:Koeh-066-original.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "gentiana-lutea-kohler-1890",
+      "pageid": 42766971,
+      "original_name": "Gentiana lutea",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "134",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232796014",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_134)_(8232796014).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 134) (8232796014).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303204"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "gentiana-lutea-kohler-1897",
+      "pageid": 255340,
+      "original_name": "Gentiana lutea",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "066",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gentiana_lutea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-066.jpg",
+      "file_title": "File:Gentiana lutea - Köhler–s Medizinal-Pflanzen-066.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#d3ae12",
+          "share": 0.125
+        },
+        {
+          "hex": "#51690f",
+          "share": 0.061
+        },
+        {
+          "hex": "#909312",
+          "share": 0.057
+        },
+        {
+          "hex": "#96ac23",
+          "share": 0.051
+        },
+        {
+          "hex": "#e9d03b",
+          "share": 0.039
+        }
+      ],
+      "images": {
+        "full": "/laminas/255340-1600w.webp",
+        "medium": "/laminas/255340-800w.webp",
+        "thumb": "/laminas/255340-400w.webp",
+        "width": 1600,
+        "height": 2080,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}

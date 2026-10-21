@@ -1,0 +1,73 @@
+{
+  "taxon": {
+    "accepted": "Fraxinus ornus",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Fraxinus",
+    "family": "Oleaceae",
+    "gbif_id": 3172347,
+    "wikidata": "Q161421",
+    "common_es": [
+      "fresno del maná",
+      "fresno del mana",
+      "fresno de flor"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "fraxinus-ornus-kohler-1887",
+      "pageid": 1623287,
+      "original_name": "Fraxinus ornus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "from Koehler's Medicinal-Plants 1887, http://www.biolib.de/",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fraxinus_ornus_koeh062.jpg",
+      "file_title": "File:Fraxinus ornus koeh062.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "fraxinus-ornus-kohler-1887-82867242",
+      "pageid": 82867242,
+      "original_name": "Fraxinus ornus",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinalpflanzen",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler_Fraxinus_ornus.jpg",
+      "file_title": "File:Köhler Fraxinus ornus.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303166",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_115)_(8232786348).jpg",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%E2%80%99s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_115)_(8232786348)_-_clean.jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

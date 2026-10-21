@@ -1,0 +1,67 @@
+{
+  "taxon": {
+    "accepted": "Prunus amygdalus",
+    "authorship": "Batsch",
+    "rank": "species",
+    "genus": "Prunus",
+    "family": "Rosaceae",
+    "gbif_id": 3020980,
+    "wikidata": "Q15545507",
+    "common_es": [],
+    "original_names": [
+      "Amygdalus communis"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "prunus-amygdalus-kohler-bhl-1890",
+      "pageid": -303122,
+      "original_name": "Amygdalus communis",
+      "taxon_note": "nombre ambiguo; se eligió Amygdalus communis L. (Linneo) → Prunus amygdalus",
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "94",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303122",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 94 [BHL 303122]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "prunus-amygdalus-kohler-bhl-1890-93",
+      "pageid": -303120,
+      "original_name": "Amygdalus communis",
+      "taxon_note": "nombre ambiguo; se eligió Amygdalus communis L. (Linneo) → Prunus amygdalus",
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "93",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303120",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 93 [BHL 303120]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

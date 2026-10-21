@@ -1,0 +1,73 @@
+{
+  "taxon": {
+    "accepted": "Centaurium erythraea",
+    "authorship": "Rafn",
+    "rank": "species",
+    "genus": "Centaurium",
+    "family": "Gentianaceae",
+    "gbif_id": 5414457,
+    "wikidata": "Q156870",
+    "common_es": [
+      "aciano",
+      "amargosa",
+      "centaura menor roja",
+      "centaura menor",
+      "centaura",
+      "centaurea menor",
+      "centáurea menor",
+      "cintoria de oro",
+      "cintoria",
+      "eritrea",
+      "escobilla",
+      "genciana blanca",
+      "gota de sangre",
+      "hiel de la tierra",
+      "hiel de tierra",
+      "hiel del campo",
+      "hierba amargosa",
+      "hierba de guirón",
+      "hierba de la liebre",
+      "hierba pedorrera",
+      "lapicocho",
+      "sanginaria",
+      "santaura",
+      "siete sangrías",
+      "yel de la tierra",
+      "yerba amargosa",
+      "yerba margosa",
+      "erythraea centaurium sensu",
+      "hierba de guiron"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "centaurium-erythraea-kohler-1887",
+      "pageid": 44484870,
+      "original_name": "Centaurium erythraea",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "22",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303606",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_22)_BHL303606.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 22) BHL303606.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303606",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_22)_(7118315239).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

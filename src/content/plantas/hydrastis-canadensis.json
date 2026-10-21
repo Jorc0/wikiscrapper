@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Hydrastis canadensis",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Hydrastis",
+    "family": "Ranunculaceae",
+    "gbif_id": 3033110,
+    "wikidata": "Q1051710",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "hydrastis-canadensis-kohler-1890",
+      "pageid": 42766720,
+      "original_name": "Hydrastis canadensis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "180",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232818618",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_180)_(8232818618).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 180) (8232818618).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303300"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

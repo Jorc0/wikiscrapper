@@ -1,0 +1,40 @@
+{
+  "taxon": {
+    "accepted": "Rosa alba",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Rosa",
+    "family": "Rosaceae",
+    "gbif_id": 3007383,
+    "wikidata": "Q478530",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "rosa-alba-redoute-roses-1817",
+      "pageid": 14953049,
+      "original_name": "Rosa alba",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Georges Jansoone ( JoJan ) - artwork by Pierre-Joseph Redouté",
+      "work": "Les Roses",
+      "source": "redoute_roses",
+      "origin": "commons",
+      "plate": null,
+      "year": 1817,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Own work - photo made at an art auction in Belgium",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rosa_alba_Regalis_001.JPG",
+      "file_title": "File:Rosa alba Regalis 001.JPG",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

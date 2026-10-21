@@ -1,0 +1,40 @@
+{
+  "taxon": {
+    "accepted": "Pterocarpus marsupium",
+    "authorship": "Roxb.",
+    "rank": "species",
+    "genus": "Pterocarpus",
+    "family": "Fabaceae",
+    "gbif_id": 5349309,
+    "wikidata": "Q2385259",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "pterocarpus-marsupium-kohler-bhl-1890",
+      "pageid": -303202,
+      "original_name": "Pterocarpus marsupium",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "133",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303202",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 133 [BHL 303202]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

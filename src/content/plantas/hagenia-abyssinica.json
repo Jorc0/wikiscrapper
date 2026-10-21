@@ -1,0 +1,44 @@
+{
+  "taxon": {
+    "accepted": "Hagenia abyssinica",
+    "authorship": "(Bruce) J.F.Gmel.",
+    "rank": "species",
+    "genus": "Hagenia",
+    "family": "Rosaceae",
+    "gbif_id": 5370415,
+    "wikidata": "Q1785081",
+    "common_es": [
+      "brayera"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "hagenia-abyssinica-kohler-1887",
+      "pageid": 44486587,
+      "original_name": "Hagenia abyssinica",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "84",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303736",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_84)_BHL303736.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 84) BHL303736.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_84)_(6972258132).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "taxon": {
+    "accepted": "Areca catechu",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Areca",
+    "family": "Arecaceae",
+    "gbif_id": 2736531,
+    "wikidata": "Q156969",
+    "common_es": [
+      "palma de betel",
+      "nueces de betel",
+      "buyo",
+      "nuez de areca"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "areca-catechu-kohler-1890",
+      "pageid": 42766634,
+      "original_name": "Areca catechu",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "192",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8231762187",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_192)_(8231762187).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 192) (8231762187).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303324"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

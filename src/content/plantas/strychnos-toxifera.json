@@ -1,0 +1,40 @@
+{
+  "taxon": {
+    "accepted": "Strychnos toxifera",
+    "authorship": "M.R.Schomb. ex Benth.",
+    "rank": "species",
+    "genus": "Strychnos",
+    "family": "Loganiaceae",
+    "gbif_id": 5414401,
+    "wikidata": "Q3500728",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "strychnos-toxifera-kohler-bhl-1898",
+      "pageid": -302520,
+      "original_name": "Strychnos toxifera",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "45",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302520",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 45 [BHL 302520]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

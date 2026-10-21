@@ -1,0 +1,51 @@
+{
+  "taxon": {
+    "accepted": "Pinus nigra",
+    "authorship": "J.F.Arnold",
+    "rank": "species",
+    "genus": "Pinus",
+    "family": "Pinaceae",
+    "gbif_id": 5284809,
+    "wikidata": "Q145954",
+    "common_es": [
+      "pino Salgareño",
+      "pino Nigro",
+      "pino salgareno",
+      "pino negral de Crimea",
+      "pino negral",
+      "pino negral de Córcega",
+      "pino laricio",
+      "pino negral de Corcega"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "pinus-nigra-kohler-1890",
+      "pageid": 42766831,
+      "original_name": "Pinus nigra",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "161",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8231746259",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_161)_(8231746259).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 161) (8231746259).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303260"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "taxon": {
+    "accepted": "Datura stramonium",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Datura",
+    "family": "Solanaceae",
+    "gbif_id": 2928751,
+    "wikidata": "Q30959",
+    "common_es": [
+      "higera del infierno",
+      "nongué",
+      "borrachero",
+      "estramonio",
+      "berenjena del diablo",
+      "ñongué",
+      "nongue",
+      "hierba del Diablo",
+      "garramoño",
+      "ñongue",
+      "flor de la trompeta"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "datura-stramonium-kohler-1887",
+      "pageid": 44484893,
+      "original_name": "Datura stramonium",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "23",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303608",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_23)_BHL303608.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 23) BHL303608.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_23)_(7118315575).jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "datura-stramonium-kohler-1887-74580309",
+      "pageid": 74580309,
+      "original_name": "Datura stramonium",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinalpflanzen, 1887 Band I, No 23",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler_Datura.jpg",
+      "file_title": "File:Köhler Datura.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "taxon": {
+    "accepted": "Protium icicariba",
+    "authorship": "(DC.) Marchand",
+    "rank": "species",
+    "genus": "Protium",
+    "family": "Burseraceae",
+    "gbif_id": 7286776,
+    "wikidata": "Q15290917",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "protium-icicariba-kohler-bhl-1890",
+      "pageid": -303316,
+      "original_name": "Protium icicariba",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "188",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303316",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 188 [BHL 303316]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "taxon": {
+    "accepted": "Landolphia watsoniana",
+    "authorship": "Rombouts",
+    "rank": "species",
+    "genus": "Landolphia",
+    "family": "Apocynaceae",
+    "gbif_id": 7411160,
+    "wikidata": "Q15359366",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "landolphia-watsoniana-kohler-1883",
+      "pageid": 5198552,
+      "original_name": "Landolphia watsoniana",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Köhler, F. E. (Franz Eugen)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1883,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte : Atlas zur Pharmacopoea germanica, [1]",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Koeh-215-original.jpg",
+      "file_title": "File:Koeh-215-original.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

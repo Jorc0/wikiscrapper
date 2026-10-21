@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Acokanthera schimperi",
+    "authorship": "(A.DC.) Schweinf.",
+    "rank": "species",
+    "genus": "Acokanthera",
+    "family": "Apocynaceae",
+    "gbif_id": 7576345,
+    "wikidata": "Q2667432",
+    "common_es": [],
+    "original_names": [
+      "Acokanthera abyssinica"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "acokanthera-schimperi-kohler-bhl-1898",
+      "pageid": -302558,
+      "original_name": "Acokanthera abyssinica",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "64",
+      "year": 1898,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/302558",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.3 (1898), Plate 64 [BHL 302558]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

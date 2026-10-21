@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Mallotus philippensis",
+    "authorship": "(Lam.) Müll.Arg.",
+    "rank": "species",
+    "genus": "Mallotus",
+    "family": "Euphorbiaceae",
+    "gbif_id": 5378605,
+    "wikidata": "Q2510557",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "mallotus-philippensis-kohler-1887",
+      "pageid": 44485569,
+      "original_name": "Mallotus philippensis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "50",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303662",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_50)_BHL303662.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 50) BHL303662.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_50)_(7118324203).jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

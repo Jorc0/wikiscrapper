@@ -1,0 +1,42 @@
+{
+  "taxon": {
+    "accepted": "Physostigma venenosum",
+    "authorship": "Balf.",
+    "rank": "species",
+    "genus": "Physostigma",
+    "family": "Fabaceae",
+    "gbif_id": 2946860,
+    "wikidata": "Q1721924",
+    "common_es": [
+      "frijol de Calabar"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "physostigma-venenosum-kohler-bhl-1890",
+      "pageid": -303294,
+      "original_name": "Physostigma venenosum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Walther Otto Müller",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler_bhl",
+      "origin": "bhl",
+      "plate": "177",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": true,
+      "credit": "Biodiversity Heritage Library; Missouri Botanical Garden, Peter H. Raven Library; digitalizado con apoyo de Missouri Botanical Garden",
+      "source_url": "https://www.biodiversitylibrary.org/page/303294",
+      "file_title": "Köhler's Medizinal-Pflanzen, v.2 (1890), Plate 177 [BHL 303294]",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

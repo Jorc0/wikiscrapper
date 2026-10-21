@@ -1,0 +1,40 @@
+{
+  "taxon": {
+    "accepted": "Cinchona calisaya",
+    "authorship": "Wedd.",
+    "rank": "species",
+    "genus": "Cinchona",
+    "family": "Rubiaceae",
+    "gbif_id": 2901375,
+    "wikidata": "Q15399753",
+    "common_es": [],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "cinchona-calisaya-kohler-1887",
+      "pageid": 11320239,
+      "original_name": "Cinchona calisaya",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Hermann Adolf Köhler (1834 - 1879)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler1 (index) http://caliban.mpiz-koeln.mpg.de/koehler1/high/DSC_2758.jpg (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cinchona_calisaya_(K%C3%B6hler).jpg",
+      "file_title": "File:Cinchona calisaya (Köhler).jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

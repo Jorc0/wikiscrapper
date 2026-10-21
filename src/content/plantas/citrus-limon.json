@@ -1,0 +1,73 @@
+{
+  "taxon": {
+    "accepted": "Citrus limon",
+    "authorship": "(L.) Osbeck",
+    "rank": "species",
+    "genus": "Citrus",
+    "family": "Rutaceae",
+    "gbif_id": 7647136,
+    "wikidata": null,
+    "common_es": [],
+    "original_names": [
+      "Citrus limonum",
+      "Citrus × limon"
+    ]
+  },
+  "illustrations": [
+    {
+      "id": "citrus-limon-kohler-1887",
+      "pageid": 11738161,
+      "original_name": "Citrus limonum",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Hermann Adolf Köhler (1834 - 1879)",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "http://caliban.mpiz-koeln.mpg.de/koehler (index) http://caliban.mpiz-koeln.mpg.de/koehler/ZITRONE1.jpg (image)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_limonum_(K%C3%B6hler).jpg",
+      "file_title": "File:Citrus limonum (Köhler).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_3)_(6972229396).jpg",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_3)_BHL303566.jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "citrus-limon-kohler-1887-2",
+      "pageid": 43187433,
+      "original_name": "Citrus × limon",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "2",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/7118307733",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_2)_(7118307733).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 2) (7118307733).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_2)_BHL2897585.jpg"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

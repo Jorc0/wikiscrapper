@@ -1,0 +1,80 @@
+{
+  "taxon": {
+    "accepted": "Melissa officinalis",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Melissa",
+    "family": "Lamiaceae",
+    "gbif_id": 5341501,
+    "wikidata": "Q148396",
+    "common_es": [
+      "toronjil",
+      "torongina",
+      "torongil de limón",
+      "bedaranjí",
+      "albedarumbre",
+      "verde-limón",
+      "torongil de limon",
+      "abeyera",
+      "verde limón",
+      "bedaranji",
+      "verde-limon"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "melissa-officinalis-kohler-1887",
+      "pageid": 44486007,
+      "original_name": "Melissa officinalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "65",
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.biodiversitylibrary.org/pageimage/303696",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_65)_BHL303696.jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 65) BHL303696.jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303696",
+        "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_65)_(6972251426).jpg"
+      ],
+      "palette": [],
+      "images": null
+    },
+    {
+      "id": "melissa-officinalis-kohler-1887-67134060",
+      "pageid": 67134060,
+      "original_name": "Melissa officinalis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Unknown author Unknown author",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Köhlers Medizinalpflanzen",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Melissa_K%C3%B6hler.jpg",
+      "file_title": "File:Melissa Köhler.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

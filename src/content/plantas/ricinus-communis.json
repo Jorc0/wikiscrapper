@@ -1,0 +1,107 @@
+{
+  "taxon": {
+    "accepted": "Ricinus communis",
+    "authorship": "L.",
+    "rank": "species",
+    "genus": "Ricinus",
+    "family": "Euphorbiaceae",
+    "gbif_id": 5380041,
+    "wikidata": "Q155867",
+    "common_es": [
+      "ricino",
+      "catapúcia mayor",
+      "tartaguera",
+      "ricinus macrocarpus proles sanguineus",
+      "ricinus microcarpus proles indostanicus",
+      "kerva",
+      "palma de Cristo",
+      "ricinus macrocarpus proles japonicus",
+      "hiera del demonio"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "ricinus-communis-kohler-1887",
+      "pageid": 110445,
+      "original_name": "Ricinus communis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": null,
+      "year": 1887,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "Book: Franz Eugen Köhler \"Köhlers Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte.\" (1887), Gera, Germany",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Illustration_Ricinus_communis0.jpg",
+      "file_title": "File:Illustration Ricinus communis0.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#f8f7f4",
+          "share": 0.068
+        },
+        {
+          "hex": "#c2bdb4",
+          "share": 0.067
+        },
+        {
+          "hex": "#424b2c",
+          "share": 0.066
+        },
+        {
+          "hex": "#787a4f",
+          "share": 0.065
+        },
+        {
+          "hex": "#606c43",
+          "share": 0.061
+        }
+      ],
+      "images": {
+        "full": "/laminas/110445-1600w.webp",
+        "medium": "/laminas/110445-800w.webp",
+        "thumb": "/laminas/110445-400w.webp",
+        "width": 1600,
+        "height": 2166,
+        "formats": [
+          "webp"
+        ]
+      }
+    },
+    {
+      "id": "ricinus-communis-kohler-1890",
+      "pageid": 42766835,
+      "original_name": "Ricinus communis",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "160",
+      "year": 1890,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "https://www.flickr.com/photos/biodivlibrary/8232808238",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_160)_(8232808238).jpg",
+      "file_title": "File:Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 160) (8232808238).jpg",
+      "needs_review": false,
+      "alternates": [
+        "https://www.biodiversitylibrary.org/page/303258"
+      ],
+      "palette": [],
+      "images": null
+    }
+  ]
+}

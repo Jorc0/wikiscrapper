@@ -1,0 +1,92 @@
+{
+  "taxon": {
+    "accepted": "Cydonia oblonga",
+    "authorship": "Mill.",
+    "rank": "species",
+    "genus": "Cydonia",
+    "family": "Rosaceae",
+    "gbif_id": 5362215,
+    "wikidata": "Q43300",
+    "common_es": [
+      "cydonia",
+      "membrillero",
+      "membrillo de Portugal",
+      "azamboero de Granada",
+      "codoñato",
+      "membrillero común",
+      "coduner",
+      "membrillo",
+      "bembrillas",
+      "zambua",
+      "codonato",
+      "zamboa de Granada",
+      "pyrus Cydonia cydonia",
+      "marmello",
+      "coduñer",
+      "codoñera",
+      "pyrus-Cydonia cydonia",
+      "codonera",
+      "bembrillero",
+      "membrillal",
+      "bembrillo"
+    ],
+    "original_names": []
+  },
+  "illustrations": [
+    {
+      "id": "cydonia-oblonga-kohler-1897",
+      "pageid": 255319,
+      "original_name": "Cydonia oblonga",
+      "taxon_note": null,
+      "multi_species": false,
+      "other_taxa": [],
+      "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "work": "Köhler's Medizinal-Pflanzen",
+      "source": "kohler",
+      "origin": "commons",
+      "plate": "049",
+      "year": 1897,
+      "license": "Public domain",
+      "license_url": null,
+      "share_alike": false,
+      "attribution_required": false,
+      "credit": "List of Koehler Images (original upload), http://caliban.mpiz-koeln.mpg.de/koehler1/high/DSC_2642.html (first resolution increase)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cydonia_oblonga_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-049.jpg",
+      "file_title": "File:Cydonia oblonga - Köhler–s Medizinal-Pflanzen-049.jpg",
+      "needs_review": false,
+      "alternates": [],
+      "palette": [
+        {
+          "hex": "#f7f6f3",
+          "share": 0.074
+        },
+        {
+          "hex": "#b1b090",
+          "share": 0.07
+        },
+        {
+          "hex": "#82834f",
+          "share": 0.068
+        },
+        {
+          "hex": "#5e6032",
+          "share": 0.063
+        },
+        {
+          "hex": "#32311d",
+          "share": 0.059
+        }
+      ],
+      "images": {
+        "full": "/laminas/255319-1600w.webp",
+        "medium": "/laminas/255319-800w.webp",
+        "thumb": "/laminas/255319-400w.webp",
+        "width": 1464,
+        "height": 2004,
+        "formats": [
+          "webp"
+        ]
+      }
+    }
+  ]
+}
