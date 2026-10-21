@@ -10,7 +10,7 @@ const plantas = (await getCollection('plantas')).sort((a, b) =>
 <Catalogo title="Especies">
   <main>
     <h1>Catálogo botánico</h1>
-    <p class="count">{plantas.length} especies</p>
+    <p class="count">{plantas.length} especies · <a href="/creditos/">Créditos y licencias</a></p>
     <ul class="grid">
       {plantas.map(({ id, data }) => {
         const cover = data.illustrations.find((i) => i.images) ?? data.illustrations[0];

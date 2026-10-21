@@ -7,7 +7,7 @@ Fases, en orden:
   filter    4. licencias, exclusiones, láminas múltiples -> var/revision.csv
   dedupe    4. hash perceptual (miniaturas de 250 px) y marcado de duplicados
   images    5. descarga a 1920 px y genera variantes WebP/AVIF + paleta
-  upload    5. sube las variantes a Cloudflare R2
+  upload    5. sube las variantes a Cloudflare R2 y vuelve a exportar con sus URLs
   export    6. escribe una ficha JSON por especie en src/content/plantas
   all       todo lo anterior salvo upload
   status    resumen del estado de la base de datos
@@ -88,6 +88,7 @@ def main(argv=None):
                 images.process(media, db, cfg, args.source, limit=args.limit, refresh=args.refresh)
             elif stage == "upload":
                 storage.upload(db, cfg)
+                export.run(db, cfg, include_review=args.include_review)  # las fichas ya apuntan a R2
             elif stage == "export":
                 export.run(db, cfg, include_review=args.include_review)
             elif stage == "status":

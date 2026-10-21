@@ -1,0 +1,94 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Catalogo from '../layouts/Catalogo.astro';
+
+type Lamina = {
+  especie: string;
+  id: string;
+  ill: CollectionEntry<'plantas'>['data']['illustrations'][number];
+};
+
+const plantas = await getCollection('plantas');
+const porObra = new Map<string, Lamina[]>();
+for (const { id, data } of plantas) {
+  for (const ill of data.illustrations) {
+    const lista = porObra.get(ill.work) ?? [];
+    lista.push({ especie: data.taxon.accepted, id, ill });
+    porObra.set(ill.work, lista);
+  }
+}
+const obras = [...porObra.entries()].sort(([a], [b]) => a.localeCompare(b));
+const total = obras.reduce((n, [, l]) => n + l.length, 0);
+
+const unicos = (xs: (string | null)[]) => [...new Set(xs.filter(Boolean))] as string[];
+const necesitaAtribucion = (l: Lamina) => l.ill.license.startsWith('CC BY');
+const fuente = (l: Lamina) => (l.ill.origin === 'bhl' ? 'Biodiversity Heritage Library' : 'Wikimedia Commons');
+---
+
+<Catalogo title="Créditos">
+  <main>
+    <p><a href="/">← Catálogo</a></p>
+    <h1>Créditos</h1>
+    <p>
+      Las {total} láminas de este catálogo son de dominio público o tienen licencias libres. Cada una conserva su
+      licencia original; las CC BY y CC BY-SA se atribuyen individualmente a continuación y en su ficha.
+    </p>
+    <p>
+      Datos taxonómicos: <a href="https://www.gbif.org/">GBIF</a> (Backbone Taxonomy) y
+      <a href="https://www.wikidata.org/">Wikidata</a>. Imágenes y metadatos:
+      <a href="https://commons.wikimedia.org/">Wikimedia Commons</a> y
+      <a href="https://www.biodiversitylibrary.org/">Biodiversity Heritage Library</a>.
+    </p>
+
+    {obras.map(([obra, laminas]) => {
+      const atribuir = laminas.filter(necesitaAtribucion);
+      const resto = laminas.filter((l) => !necesitaAtribucion(l));
+      const años = laminas.map((l) => l.ill.year).filter((y): y is number => y !== null);
+      return (
+        <section>
+          <h2><cite>{obra}</cite></h2>
+          <p class="meta">
+            {laminas.length} lámina{laminas.length > 1 ? 's' : ''}
+            {años.length > 0 && <> · {Math.min(...años)}{Math.max(...años) !== Math.min(...años) && `–${Math.max(...años)}`}</>}
+            · {unicos(laminas.map((l) => l.ill.license)).join(', ')}
+            <br />
+            {unicos(laminas.map((l) => l.ill.artist)).join('; ')}
+          </p>
+          {atribuir.length > 0 && (
+            <ul>
+              {atribuir.map((l) => (
+                <li>
+                  <a href={`/catalogo/${l.id}/#${l.ill.id}`}><i>{l.especie}</i></a>
+                  {l.ill.plate && <>, lámina {l.ill.plate}</>}. {l.ill.artist && <>{l.ill.artist}. </>}
+                  {l.ill.license_url ? <a href={l.ill.license_url}>{l.ill.license}</a> : l.ill.license}
+                  {l.ill.share_alike && ' (compartir igual)'}. <a href={l.ill.source_url}>{fuente(l)}</a>
+                </li>
+              ))}
+            </ul>
+          )}
+          {resto.length > 0 && (
+            <details>
+              <summary>{resto.length} lámina{resto.length > 1 ? 's' : ''} de dominio público o CC0</summary>
+              <ul>
+                {resto.map((l) => (
+                  <li>
+                    <a href={`/catalogo/${l.id}/#${l.ill.id}`}><i>{l.especie}</i></a>
+                    {l.ill.plate && <>, lámina {l.ill.plate}</>} — <a href={l.ill.source_url}>{fuente(l)}</a>
+                  </li>
+                ))}
+              </ul>
+            </details>
+          )}
+        </section>
+      );
+    })}
+  </main>
+</Catalogo>
+
+<style>
+  section { margin: 2.5rem 0; }
+  .meta { color: var(--muted); }
+  ul { padding-left: 1.2rem; }
+  li { margin: 0.2rem 0; }
+  summary { cursor: pointer; color: var(--accent); }
+</style>
