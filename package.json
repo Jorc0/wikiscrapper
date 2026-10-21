@@ -1,5 +1,5 @@
 {
-  "name": "magical-metal",
+  "name": "botanico",
   "type": "module",
   "version": "0.0.1",
   "engines": {
@@ -12,8 +12,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/preact": "^6.0.1",
-    "astro": "^7.1.3",
-    "preact": "^10.29.7"
+    "astro": "^7.1.3"
   }
 }

@@ -1,6 +1,3 @@
 requests>=2.31.0
-beautifulsoup4>=4.12.0
-Flask>=3.0.0
 Pillow>=11.3.0
-# Para `python -m catalogo upload` (Cloudflare R2):
 boto3>=1.34

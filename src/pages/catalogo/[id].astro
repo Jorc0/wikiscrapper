@@ -14,7 +14,7 @@ const avif = (url: string) => url.replace(/\.webp$/, '.avif');
 
 <Catalogo title={taxon.accepted}>
   <main>
-    <p><a href="/catalogo/">← Catálogo</a></p>
+    <p><a href="/">← Catálogo</a></p>
     <h1><i>{taxon.accepted}</i> {taxon.authorship && <small>{taxon.authorship}</small>}</h1>
     {taxon.common_es.length > 0 && <p class="common">{taxon.common_es.join(', ')}</p>}
     <dl>
